@@ -1,0 +1,888 @@
+Antecedents,Consequents,Support,Confidence,Lift
+['Normal Stress'],['High PostTest'],0.8366336633663366,0.9388888888888889,1.0034685479129923
+['Moderate ESF'],['High PostTest'],0.7673267326732673,0.9393939393939394,1.0040083373416706
+"['Moderate ESF', 'Normal Stress']",['High PostTest'],0.6881188118811881,0.9391891891891891,1.0037895037895037
+['Moderate CRF'],['High PostTest'],0.7673267326732673,0.9393939393939394,1.0040083373416706
+"['Moderate CRF', 'Normal Stress']",['High PostTest'],0.698019801980198,0.94,1.0046560846560846
+"['Moderate ESF', 'Moderate CRF']",['High PostTest'],0.6534653465346535,0.9361702127659576,1.0005628729032985
+"['Moderate ESF', 'Moderate CRF', 'Normal Stress']",['High PostTest'],0.594059405940594,0.9375,1.001984126984127
+['Positive Delta'],['High PostTest'],0.7871287128712872,0.9814814814814815,1.0489907897315305
+['High PostTest'],['Positive Delta'],0.7871287128712872,0.8412698412698413,1.0489907897315305
+['Normal Stress'],['Positive Delta'],0.7178217821782178,0.8055555555555555,1.004458161865569
+['Moderate CRF'],['Positive Delta'],0.6584158415841584,0.8060606060606061,1.0050879161990274
+"['Positive Delta', 'Normal Stress']",['High PostTest'],0.7029702970297029,0.9793103448275862,1.0466703156358328
+"['Normal Stress', 'High PostTest']",['Positive Delta'],0.7029702970297029,0.8402366863905325,1.047702534882022
+"['Moderate CRF', 'Positive Delta']",['High PostTest'],0.6485148514851485,0.9849624060150376,1.0527111429367069
+"['Moderate CRF', 'High PostTest']",['Positive Delta'],0.6485148514851485,0.8451612903225807,1.0538430904022302
+"['Moderate CRF', 'Normal Stress']",['Positive Delta'],0.599009900990099,0.8066666666666666,1.0058436213991768
+"['Moderate CRF', 'Positive Delta', 'Normal Stress']",['High PostTest'],0.5891089108910891,0.9834710743801652,1.0511172329354146
+"['Moderate CRF', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.5891089108910891,0.8439716312056738,1.0523596882934945
+"['Moderate ESF', 'Positive Delta']",['High PostTest'],0.6336633663366337,0.9770992366412213,1.0443071206429984
+"['Moderate ESF', 'High PostTest']",['Positive Delta'],0.6336633663366337,0.8258064516129032,1.0297092791716447
+"['Moderate ESF', 'Positive Delta', 'Normal Stress']",['High PostTest'],0.5643564356435643,0.9743589743589743,1.041378374711708
+"['Moderate ESF', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.5643564356435643,0.8201438848920863,1.022648547828404
+"['Moderate ESF', 'Moderate CRF', 'Positive Delta']",['High PostTest'],0.5396039603960396,0.9819819819819819,1.0495257161923828
+"['Moderate ESF', 'Moderate CRF', 'High PostTest']",['Positive Delta'],0.5396039603960396,0.8257575757575758,1.0296483352038908
+"['Moderate ESF', 'Moderate CRF', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.4900990099009901,0.8250000000000001,1.0287037037037037
+"['Moderate ESF', 'Moderate CRF', 'Positive Delta', 'Normal Stress']",['High PostTest'],0.4900990099009901,0.9801980198019802,1.0476190476190474
+['High PreTest'],['High PostTest'],0.693069306930693,0.9395973154362416,1.0042257022122794
+['High PostTest'],['High PreTest'],0.693069306930693,0.7407407407407406,1.0042257022122791
+['Moderate CRF'],['High PreTest'],0.6089108910891089,0.7454545454545455,1.0106162294081757
+['Moderate ESF'],['High PreTest'],0.6039603960396039,0.7393939393939394,1.0023998372991663
+"['High PreTest', 'Normal Stress']",['High PostTest'],0.6089108910891089,0.9461538461538461,1.0112332112332112
+"['Moderate CRF', 'High PreTest']",['High PostTest'],0.5742574257425742,0.9430894308943089,1.0079580160880972
+"['Moderate CRF', 'High PostTest']",['High PreTest'],0.5742574257425742,0.7483870967741935,1.0145919030093093
+"['Moderate CRF', 'High PreTest', 'Normal Stress']",['High PostTest'],0.5148514851485149,0.9454545454545454,1.0104858104858103
+"['Moderate ESF', 'High PreTest']",['High PostTest'],0.5742574257425742,0.9508196721311475,1.016219967039639
+"['Moderate ESF', 'High PostTest']",['High PreTest'],0.5742574257425742,0.7483870967741935,1.0145919030093093
+"['Moderate ESF', 'Moderate CRF']",['High PreTest'],0.5198019801980198,0.7446808510638299,1.0095673282878768
+"['Moderate ESF', 'High PreTest', 'Normal Stress']",['High PostTest'],0.5099009900990099,0.9537037037037037,1.019302371154223
+"['Moderate ESF', 'Normal Stress', 'High PostTest']",['High PreTest'],0.5099009900990099,0.7410071942446044,1.0045869344792624
+"['Moderate ESF', 'Moderate CRF', 'High PreTest']",['High PostTest'],0.4900990099009901,0.9428571428571428,1.0077097505668933
+"['Moderate ESF', 'Moderate CRF', 'High PostTest']",['High PreTest'],0.4900990099009901,0.75,1.016778523489933
+"['Moderate ESF', 'Moderate CRF', 'High PreTest', 'Normal Stress']",['High PostTest'],0.4405940594059406,0.9468085106382979,1.0119329055499267
+"['Moderate ESF', 'Moderate CRF', 'Normal Stress', 'High PostTest']",['High PreTest'],0.4405940594059406,0.7416666666666667,1.0054809843400447
+"['Positive Delta', 'High PreTest']",['High PostTest'],0.5445544554455446,1.0,1.0687830687830686
+"['Positive Delta', 'High PreTest', 'Normal Stress']",['High PostTest'],0.4752475247524752,1.0,1.0687830687830686
+"['Moderate CRF', 'Positive Delta', 'High PreTest']",['High PostTest'],0.45544554455445546,1.0,1.0687830687830686
+"['Moderate CRF', 'Positive Delta', 'High PreTest', 'Normal Stress']",['High PostTest'],0.40594059405940597,1.0,1.0687830687830686
+"['Moderate ESF', 'Positive Delta', 'High PreTest']",['High PostTest'],0.4405940594059406,1.0,1.0687830687830686
+"['Moderate ESF', 'Positive Delta', 'High PreTest', 'Normal Stress']",['High PostTest'],0.38613861386138615,1.0,1.0687830687830686
+"['Moderate ESF', 'Moderate CRF', 'Positive Delta', 'High PreTest']",['High PostTest'],0.37623762376237624,1.0,1.0687830687830686
+"['High PreTest', 'Normal Stress', 'Positive Delta', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.33663366336633666,1.0,1.0687830687830686
+['Normal Depression'],['Positive Delta'],0.5891089108910891,0.8040540540540541,1.0025859192525859
+['Normal Depression'],['High PreTest'],0.5445544554455446,0.7432432432432433,1.0076183566116452
+"['Normal Stress', 'Normal Depression']",['High PostTest'],0.6732673267326733,0.9379310344827587,1.0024448093413612
+"['Moderate CRF', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.5594059405940595,0.9416666666666668,1.006437389770723
+"['Normal Stress', 'Normal Depression']",['Positive Delta'],0.5792079207920792,0.8068965517241379,1.0061302681992337
+"['Positive Delta', 'Normal Depression']",['High PostTest'],0.5742574257425742,0.9747899159663865,1.0418389578053442
+"['Normal Depression', 'High PostTest']",['Positive Delta'],0.5742574257425742,0.8405797101449274,1.0481302558597243
+"['Positive Delta', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.5643564356435643,0.9743589743589743,1.041378374711708
+"['Normal Stress', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.5643564356435643,0.838235294117647,1.0452069716775598
+"['Moderate CRF', 'Positive Delta', 'Normal Depression']",['High PostTest'],0.47029702970297027,0.979381443298969,1.0467463044782632
+"['Moderate CRF', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.47029702970297027,0.8333333333333334,1.0390946502057612
+"['Moderate CRF', 'Normal Stress', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.46534653465346537,0.831858407079646,1.0372555446301759
+"['Moderate CRF', 'Positive Delta', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.46534653465346537,0.9791666666666667,1.0465167548500882
+"['Moderate ESF', 'Positive Delta', 'Normal Depression']",['High PostTest'],0.4603960396039604,0.9687500000000001,1.035383597883598
+"['Moderate ESF', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.4603960396039604,0.8230088495575221,1.0262209111766634
+"['Moderate ESF', 'Normal Stress', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.4504950495049505,0.8198198198198198,1.022244466688911
+"['Moderate ESF', 'Positive Delta', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.4504950495049505,0.9680851063829787,1.0346729708431837
+"['Moderate ESF', 'Moderate CRF', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.3910891089108911,0.8144329896907218,1.0155275550464555
+"['Moderate ESF', 'Moderate CRF', 'Positive Delta', 'Normal Depression']",['High PostTest'],0.3910891089108911,0.9753086419753086,1.0423933633810176
+"['Normal Stress', 'Normal Depression', 'High PostTest', 'Moderate ESF', 'Moderate CRF']",['Positive Delta'],0.38613861386138615,0.8125000000000001,1.0131172839506173
+"['Normal Stress', 'Normal Depression', 'Positive Delta', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.38613861386138615,0.975,1.042063492063492
+"['Normal Stress', 'Normal Depression']",['High PreTest'],0.5346534653465347,0.7448275862068966,1.009766257810692
+"['High PreTest', 'Normal Depression']",['High PostTest'],0.5148514851485149,0.9454545454545454,1.0104858104858103
+"['Normal Depression', 'High PostTest']",['High PreTest'],0.5148514851485149,0.7536231884057971,1.0216904970333625
+"['Moderate ESF', 'Normal Depression']",['High PreTest'],0.4603960396039604,0.7622950819672132,1.033447023875014
+"['Moderate CRF', 'Normal Depression']",['High PreTest'],0.4603960396039604,0.7622950819672132,1.033447023875014
+"['High PreTest', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.5099009900990099,0.9537037037037037,1.019302371154223
+"['Normal Stress', 'Normal Depression', 'High PostTest']",['High PreTest'],0.5099009900990099,0.7573529411764706,1.026746940386893
+"['Moderate ESF', 'Normal Stress', 'Normal Depression']",['High PreTest'],0.4504950495049505,0.7647058823529412,1.0367153572838532
+"['Moderate ESF', 'High PreTest', 'Normal Depression']",['High PostTest'],0.43564356435643564,0.9462365591397849,1.011321613472151
+"['Moderate ESF', 'Normal Depression', 'High PostTest']",['High PreTest'],0.43564356435643564,0.7787610619469025,1.0557700302904316
+"['Moderate ESF', 'High PreTest', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.4306930693069307,0.956043956043956,1.0218035932321645
+"['Moderate ESF', 'Normal Stress', 'Normal Depression', 'High PostTest']",['High PreTest'],0.4306930693069307,0.7837837837837837,1.0625793578813711
+"['Moderate CRF', 'Normal Stress', 'Normal Depression']",['High PreTest'],0.45544554455445546,0.7666666666666667,1.0393736017897093
+"['Moderate CRF', 'High PreTest', 'Normal Depression']",['High PostTest'],0.43564356435643564,0.9462365591397849,1.011321613472151
+"['Moderate CRF', 'Normal Depression', 'High PostTest']",['High PreTest'],0.43564356435643564,0.7719298245614036,1.0465088896738493
+"['Moderate ESF', 'Moderate CRF', 'Normal Depression']",['High PreTest'],0.400990099009901,0.7714285714285715,1.0458293384467883
+"['Moderate CRF', 'High PreTest', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.43564356435643564,0.9565217391304347,1.0223142397055438
+"['Moderate CRF', 'Normal Stress', 'Normal Depression', 'High PostTest']",['High PreTest'],0.43564356435643564,0.7787610619469025,1.0557700302904316
+"['Moderate ESF', 'Moderate CRF', 'Normal Stress', 'Normal Depression']",['High PreTest'],0.39603960396039606,0.7766990291262136,1.0529745227080212
+"['Moderate ESF', 'Moderate CRF', 'High PreTest', 'Normal Depression']",['High PostTest'],0.37623762376237624,0.9382716049382716,1.002808805277941
+"['Moderate ESF', 'Moderate CRF', 'Normal Depression', 'High PostTest']",['High PreTest'],0.37623762376237624,0.7835051546391752,1.0622016190410295
+"['High PreTest', 'Normal Stress', 'Normal Depression', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.37623762376237624,0.95,1.0153439153439152
+"['Normal Stress', 'Normal Depression', 'High PostTest', 'Moderate ESF', 'Moderate CRF']",['High PreTest'],0.37623762376237624,0.7916666666666667,1.0732662192393738
+"['Positive Delta', 'High PreTest', 'Normal Depression']",['High PostTest'],0.40594059405940597,1.0,1.0687830687830686
+"['Positive Delta', 'High PreTest', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.400990099009901,1.0,1.0687830687830686
+"['Moderate CRF', 'Positive Delta', 'High PreTest', 'Normal Depression']",['High PostTest'],0.3415841584158416,1.0,1.0687830687830686
+"['High PreTest', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'Moderate CRF']",['High PostTest'],0.3415841584158416,1.0,1.0687830687830686
+"['Moderate ESF', 'Positive Delta', 'High PreTest', 'Normal Depression']",['High PostTest'],0.33663366336633666,1.0,1.0687830687830686
+"['High PreTest', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.3316831683168317,1.0,1.0687830687830686
+['High TP'],['High PostTest'],0.6683168316831684,0.9440559440559442,1.008991008991009
+['High TP'],['Positive Delta'],0.5693069306930693,0.8041958041958042,1.002762669429336
+['High TP'],['High PreTest'],0.5445544554455446,0.7692307692307693,1.0428497676819826
+"['High TP', 'Normal Stress']",['High PostTest'],0.594059405940594,0.9448818897637795,1.0098737657792776
+"['High TP', 'Moderate ESF']",['High PostTest'],0.5544554455445545,0.9491525423728815,1.01443816698054
+"['High TP', 'Normal Stress', 'Moderate ESF']",['High PostTest'],0.4900990099009901,0.9519230769230769,1.0173992673992673
+"['High TP', 'Positive Delta']",['High PostTest'],0.5594059405940595,0.9826086956521741,1.050195537152059
+"['High TP', 'High PostTest']",['Positive Delta'],0.5594059405940595,0.837037037037037,1.0437128486511202
+"['High TP', 'Normal Stress']",['Positive Delta'],0.5099009900990099,0.8110236220472441,1.0112763682317487
+"['High TP', 'Moderate ESF']",['Positive Delta'],0.47029702970297027,0.8050847457627118,1.003871102741159
+"['High TP', 'Positive Delta', 'Normal Stress']",['High PostTest'],0.5,0.9805825242718447,1.04802999948631
+"['High TP', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.5,0.8416666666666667,1.049485596707819
+"['High TP', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.4603960396039604,0.9789473684210527,1.046282372598162
+"['High TP', 'Moderate ESF', 'High PostTest']",['Positive Delta'],0.4603960396039604,0.8303571428571428,1.0353835978835977
+"['High TP', 'Normal Stress', 'Moderate ESF']",['Positive Delta'],0.4158415841584158,0.8076923076923076,1.007122507122507
+"['High TP', 'Normal Stress', 'Moderate ESF', 'High PostTest']",['Positive Delta'],0.40594059405940597,0.8282828282828284,1.032797106871181
+"['High TP', 'Positive Delta', 'Normal Stress', 'Moderate ESF']",['High PostTest'],0.40594059405940597,0.9761904761904763,1.0433358528596623
+"['High TP', 'Normal Depression']",['High PostTest'],0.5247524752475248,0.9380530973451326,1.0025752680619935
+"['High TP', 'Normal Depression']",['Positive Delta'],0.46534653465346537,0.831858407079646,1.0372555446301759
+"['High TP', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.5148514851485149,0.9454545454545454,1.0104858104858103
+"['High TP', 'Positive Delta', 'Normal Depression']",['High PostTest'],0.45544554455445546,0.9787234042553191,1.0460430034898118
+"['High TP', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.45544554455445546,0.8679245283018868,1.0822268809690192
+"['High TP', 'Normal Stress', 'Normal Depression']",['Positive Delta'],0.45544554455445546,0.8363636363636363,1.0428731762065093
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.44554455445544555,0.8653846153846154,1.079059829059829
+"['High TP', 'Positive Delta', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.44554455445544555,0.9782608695652174,1.0455486542443064
+"['High TP', 'Normal Depression', 'Moderate ESF']",['Positive Delta'],0.3811881188118812,0.8279569892473118,1.0323908137528208
+"['High TP', 'Normal Stress', 'Moderate ESF', 'Normal Depression']",['High PostTest'],0.4207920792079208,0.9444444444444444,1.0094062316284538
+"['High TP', 'Moderate ESF', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.3712871287128713,0.8620689655172414,1.0749255002128566
+"['High TP', 'Positive Delta', 'Moderate ESF', 'Normal Depression']",['High PostTest'],0.3712871287128713,0.974025974025974,1.041022469593898
+"['High TP', 'Normal Stress', 'Moderate ESF', 'Normal Depression']",['Positive Delta'],0.3712871287128713,0.8333333333333333,1.0390946502057612
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Moderate ESF']",['Positive Delta'],0.3613861386138614,0.8588235294117647,1.0708787218591138
+"['High TP', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.3613861386138614,0.9733333333333333,1.0402821869488534
+"['High TP', 'Moderate CRF']",['High PostTest'],0.5247524752475248,0.9464285714285714,1.0115268329554044
+"['High TP', 'Moderate CRF']",['Positive Delta'],0.44554455445544555,0.8035714285714285,1.0019841269841268
+"['High TP', 'Moderate CRF', 'Normal Stress']",['High PostTest'],0.47029702970297027,0.95,1.0153439153439152
+"['High TP', 'Moderate CRF', 'Moderate ESF']",['High PostTest'],0.4504950495049505,0.9479166666666667,1.0131172839506173
+"['High TP', 'Moderate CRF', 'Normal Stress', 'Moderate ESF']",['High PostTest'],0.400990099009901,0.9529411764705883,1.0184873949579831
+"['High TP', 'Moderate CRF', 'Normal Depression']",['High PostTest'],0.4207920792079208,0.9444444444444444,1.0094062316284538
+"['High TP', 'Moderate CRF', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.4158415841584158,0.9545454545454545,1.02020202020202
+"['High TP', 'Normal Stress', 'Normal Depression', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.35148514851485146,0.9466666666666667,1.0117813051146385
+"['High TP', 'Moderate CRF', 'Positive Delta']",['High PostTest'],0.4405940594059406,0.9888888888888889,1.0569077013521457
+"['High TP', 'Moderate CRF', 'High PostTest']",['Positive Delta'],0.4405940594059406,0.8396226415094339,1.046936873980899
+"['High TP', 'Moderate CRF', 'Normal Stress']",['Positive Delta'],0.400990099009901,0.81,1.01
+"['High TP', 'Moderate CRF', 'Normal Depression']",['Positive Delta'],0.36633663366336633,0.8222222222222222,1.0252400548696845
+"['High TP', 'Moderate CRF', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.39603960396039606,0.8421052631578948,1.0500324886289798
+"['High TP', 'Moderate CRF', 'Positive Delta', 'Normal Stress']",['High PostTest'],0.39603960396039606,0.9876543209876543,1.0555882160820431
+"['High TP', 'Moderate CRF', 'Moderate ESF', 'High PostTest']",['Positive Delta'],0.3712871287128713,0.8241758241758241,1.0276760276760275
+"['High TP', 'Moderate CRF', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.3712871287128713,0.9868421052631579,1.054720133667502
+"['High TP', 'Normal Stress', 'High PostTest', 'Moderate ESF', 'Moderate CRF']",['Positive Delta'],0.3316831683168317,0.8271604938271605,1.0313976527968296
+"['High TP', 'Normal Stress', 'Positive Delta', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.3316831683168317,0.9852941176470588,1.0530656707127295
+"['High TP', 'Moderate CRF', 'Normal Stress', 'Normal Depression']",['Positive Delta'],0.3613861386138614,0.8295454545454545,1.034371492704826
+"['High TP', 'Moderate CRF', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.3613861386138614,0.8588235294117647,1.0708787218591138
+"['High TP', 'Moderate CRF', 'Positive Delta', 'Normal Depression']",['High PostTest'],0.3613861386138614,0.9864864864864865,1.0543400543400543
+"['High TP', 'Moderate CRF', 'Moderate ESF', 'Normal Depression']",['Positive Delta'],0.3069306930693069,0.8051948051948051,1.0040083373416706
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Moderate CRF']",['Positive Delta'],0.3564356435643564,0.8571428571428571,1.0687830687830686
+"['High TP', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'Moderate CRF']",['High PostTest'],0.3564356435643564,0.9863013698630136,1.0541422048271363
+"['High TP', 'Normal Depression', 'High PostTest', 'Moderate ESF', 'Moderate CRF']",['Positive Delta'],0.30198019801980197,0.8472222222222222,1.0564128943758573
+"['High TP', 'Normal Depression', 'Positive Delta', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.30198019801980197,0.9838709677419355,1.0515446321897934
+"['High TP', 'Normal Stress', 'Normal Depression', 'Moderate ESF', 'Moderate CRF']",['Positive Delta'],0.30198019801980197,0.8133333333333334,1.014156378600823
+"['High TP', 'High PreTest']",['High PostTest'],0.5148514851485149,0.9454545454545454,1.0104858104858103
+"['High TP', 'High PostTest']",['High PreTest'],0.5148514851485149,0.7703703703703704,1.0443947303007706
+"['High TP', 'Normal Stress']",['High PreTest'],0.4801980198019802,0.7637795275590551,1.0354594937377795
+"['High TP', 'Moderate ESF']",['High PreTest'],0.46534653465346537,0.7966101694915255,1.0799681492435447
+"['High TP', 'Moderate CRF']",['High PreTest'],0.4405940594059406,0.7946428571428571,1.0773010546500479
+"['High TP', 'Normal Depression']",['High PreTest'],0.4306930693069307,0.7699115044247786,1.0437726435825858
+"['High TP', 'High PreTest', 'Normal Stress']",['High PostTest'],0.45544554455445546,0.9484536082474228,1.013691158021055
+"['High TP', 'Normal Stress', 'High PostTest']",['High PreTest'],0.45544554455445546,0.7666666666666667,1.0393736017897093
+"['High TP', 'High PreTest', 'Moderate ESF']",['High PostTest'],0.44554455445544555,0.9574468085106382,1.023302938196555
+"['High TP', 'Moderate ESF', 'High PostTest']",['High PreTest'],0.44554455445544555,0.8035714285714285,1.089405560882071
+"['High TP', 'Normal Stress', 'Moderate ESF']",['High PreTest'],0.41089108910891087,0.798076923076923,1.0819566339700568
+"['High TP', 'High PreTest', 'Normal Stress', 'Moderate ESF']",['High PostTest'],0.39603960396039606,0.9638554216867471,1.0301523554535603
+"['High TP', 'Normal Stress', 'Moderate ESF', 'High PostTest']",['High PreTest'],0.39603960396039606,0.8080808080808082,1.0955189478679412
+"['High TP', 'Moderate CRF', 'High PreTest']",['High PostTest'],0.4158415841584158,0.9438202247191011,1.0087390761548065
+"['High TP', 'Moderate CRF', 'High PostTest']",['High PreTest'],0.4158415841584158,0.7924528301886792,1.0743320248195516
+"['High TP', 'Moderate CRF', 'Moderate ESF']",['High PreTest'],0.3910891089108911,0.8229166666666667,1.1156319910514543
+"['High TP', 'Moderate CRF', 'Normal Stress']",['High PreTest'],0.3910891089108911,0.79,1.071006711409396
+"['High TP', 'Moderate CRF', 'High PreTest', 'Moderate ESF']",['High PostTest'],0.3712871287128713,0.9493670886075949,1.0146674703636729
+"['High TP', 'Moderate CRF', 'Moderate ESF', 'High PostTest']",['High PreTest'],0.3712871287128713,0.8241758241758241,1.117339036802124
+"['High TP', 'Moderate CRF', 'High PreTest', 'Normal Stress']",['High PostTest'],0.3712871287128713,0.9493670886075949,1.0146674703636729
+"['High TP', 'Moderate CRF', 'Normal Stress', 'High PostTest']",['High PreTest'],0.3712871287128713,0.7894736842105263,1.070293182620982
+"['High TP', 'Moderate CRF', 'Normal Stress', 'Moderate ESF']",['High PreTest'],0.3465346534653465,0.8235294117647058,1.1164626924595342
+"['High TP', 'High PreTest', 'Normal Stress', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.3316831683168317,0.9571428571428573,1.0229780801209374
+"['High TP', 'Normal Stress', 'High PostTest', 'Moderate ESF', 'Moderate CRF']",['High PreTest'],0.3316831683168317,0.8271604938271605,1.1213853674703786
+"['High TP', 'Normal Stress', 'Normal Depression']",['High PreTest'],0.4207920792079208,0.7727272727272726,1.0475899938987185
+"['High TP', 'High PreTest', 'Normal Depression']",['High PostTest'],0.40594059405940597,0.942528735632184,1.0073587544851912
+"['High TP', 'Normal Depression', 'High PostTest']",['High PreTest'],0.40594059405940597,0.7735849056603774,1.0487526908952767
+"['High TP', 'Normal Depression', 'Moderate ESF']",['High PreTest'],0.3712871287128713,0.8064516129032258,1.0933102403117558
+"['High TP', 'Moderate CRF', 'Normal Depression']",['High PreTest'],0.3564356435643564,0.7999999999999999,1.0845637583892618
+"['High TP', 'High PreTest', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.400990099009901,0.9529411764705883,1.0184873949579831
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest']",['High PreTest'],0.400990099009901,0.7788461538461539,1.0558853897780072
+"['High TP', 'Normal Stress', 'Moderate ESF', 'Normal Depression']",['High PreTest'],0.3613861386138614,0.8111111111111111,1.0996271439224459
+"['High TP', 'High PreTest', 'Moderate ESF', 'Normal Depression']",['High PostTest'],0.35148514851485146,0.9466666666666667,1.0117813051146385
+"['High TP', 'Moderate ESF', 'Normal Depression', 'High PostTest']",['High PreTest'],0.35148514851485146,0.8160919540229885,1.1063796960580112
+"['High TP', 'High PreTest', 'Normal Stress', 'Normal Depression', 'Moderate ESF']",['High PostTest'],0.3465346534653465,0.958904109589041,1.0248604769152714
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Moderate ESF']",['High PreTest'],0.3465346534653465,0.8235294117647058,1.1164626924595342
+"['High TP', 'Moderate CRF', 'Normal Stress', 'Normal Depression']",['High PreTest'],0.35148514851485146,0.8068181818181818,1.0938071995118974
+"['High TP', 'Moderate CRF', 'High PreTest', 'Normal Depression']",['High PostTest'],0.33663366336633666,0.9444444444444445,1.0094062316284538
+"['High TP', 'Moderate CRF', 'Normal Depression', 'High PostTest']",['High PreTest'],0.33663366336633666,0.8,1.0845637583892618
+"['High TP', 'Moderate CRF', 'Moderate ESF', 'Normal Depression']",['High PreTest'],0.31683168316831684,0.8311688311688311,1.1268194892355965
+"['High TP', 'High PreTest', 'Normal Stress', 'Normal Depression', 'Moderate CRF']",['High PostTest'],0.33663366336633666,0.9577464788732396,1.0236232208063196
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Moderate CRF']",['High PreTest'],0.33663366336633666,0.8095238095238096,1.0974752317034198
+"['High TP', 'Normal Stress', 'Normal Depression', 'Moderate ESF', 'Moderate CRF']",['High PreTest'],0.3118811881188119,0.84,1.1387919463087248
+"['High TP', 'Positive Delta', 'High PreTest']",['High PostTest'],0.40594059405940597,1.0,1.0687830687830686
+"['High TP', 'Positive Delta', 'Moderate ESF']",['High PreTest'],0.35148514851485146,0.7473684210526316,1.013210879547863
+"['High TP', 'Moderate CRF', 'Positive Delta']",['High PreTest'],0.3316831683168317,0.7444444444444445,1.0092468307233409
+"['High TP', 'Positive Delta', 'High PreTest', 'Normal Stress']",['High PostTest'],0.3613861386138614,1.0,1.0687830687830686
+"['High TP', 'Positive Delta', 'High PreTest', 'Moderate ESF']",['High PostTest'],0.35148514851485146,1.0,1.0687830687830686
+"['High TP', 'Positive Delta', 'Moderate ESF', 'High PostTest']",['High PreTest'],0.35148514851485146,0.7634408602150536,1.035000360828462
+"['High TP', 'Positive Delta', 'Normal Stress', 'Moderate ESF']",['High PreTest'],0.3118811881188119,0.75,1.016778523489933
+"['High TP', 'High PreTest', 'Normal Stress', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.3118811881188119,1.0,1.0687830687830686
+"['High TP', 'Normal Stress', 'High PostTest', 'Positive Delta', 'Moderate ESF']",['High PreTest'],0.3118811881188119,0.7682926829268292,1.041577999672614
+"['High TP', 'High PreTest', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.33663366336633666,0.8292682926829268,1.0340258958145137
+"['High TP', 'Positive Delta', 'High PreTest', 'Normal Depression']",['High PostTest'],0.33663366336633666,1.0,1.0687830687830686
+"['High TP', 'Positive Delta', 'Normal Depression', 'High PostTest']",['High PreTest'],0.33663366336633666,0.7391304347826088,1.002042602859644
+"['High TP', 'High PreTest', 'Normal Stress', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.3316831683168317,0.8271604938271605,1.0313976527968296
+"['High TP', 'High PreTest', 'Normal Stress', 'Normal Depression', 'Positive Delta']",['High PostTest'],0.3316831683168317,1.0,1.0687830687830686
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Positive Delta']",['High PreTest'],0.3316831683168317,0.7444444444444445,1.0092468307233409
+"['High TP', 'Moderate CRF', 'Positive Delta', 'High PreTest']",['High PostTest'],0.3316831683168317,1.0,1.0687830687830686
+"['High TP', 'Moderate CRF', 'Positive Delta', 'High PostTest']",['High PreTest'],0.3316831683168317,0.752808988764045,1.0205866827539403
+['Low CN'],['High PostTest'],0.6138613861386139,0.9393939393939393,1.0040083373416706
+"['Low CN', 'Normal Stress']",['High PostTest'],0.599009900990099,0.937984496124031,1.0025019482383823
+"['Low CN', 'Normal Depression']",['High PostTest'],0.504950495049505,0.9357798165137614,1.0001456239988349
+"['Low CN', 'High TP']",['High PostTest'],0.49504950495049505,0.9433962264150942,1.0082859139462912
+"['Low CN', 'High TP', 'Normal Stress']",['High PostTest'],0.4801980198019802,0.9417475728155339,1.0065238608927929
+"['Low CN', 'High TP', 'Normal Depression']",['High PostTest'],0.4207920792079208,0.9444444444444444,1.0094062316284538
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.4158415841584158,0.9438202247191011,1.0087390761548065
+"['Low CN', 'Moderate CRF', 'High TP']",['High PostTest'],0.38613861386138615,0.9397590361445783,1.0043985465672212
+"['Low CN', 'Moderate CRF', 'High TP', 'Normal Stress']",['High PostTest'],0.37623762376237624,0.9382716049382716,1.002808805277941
+"['Low CN', 'Moderate CRF', 'High TP', 'Normal Depression']",['High PostTest'],0.3316831683168317,0.943661971830986,1.008569938147403
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'Moderate CRF']",['High PostTest'],0.32673267326732675,0.942857142857143,1.0077097505668935
+"['Low CN', 'High TP', 'Moderate ESF']",['High PostTest'],0.400990099009901,0.9418604651162792,1.0066445182724253
+"['Low CN', 'High TP', 'Normal Stress', 'Moderate ESF']",['High PostTest'],0.3910891089108911,0.9404761904761906,1.0051650289745528
+"['Low CN', 'Moderate CRF', 'High TP', 'Moderate ESF']",['High PostTest'],0.32673267326732675,0.942857142857143,1.0077097505668935
+"['Low CN', 'High TP', 'Normal Stress', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.31683168316831684,0.9411764705882353,1.0059134765017117
+"['Low CN', 'Positive Delta']",['High PostTest'],0.5099009900990099,0.9809523809523809,1.0484252960443436
+"['Low CN', 'High PostTest']",['Positive Delta'],0.5099009900990099,0.8306451612903226,1.0357427319792911
+"['Low CN', 'Normal Depression']",['Positive Delta'],0.43564356435643564,0.8073394495412843,1.0066825235020953
+"['Low CN', 'Positive Delta', 'Normal Stress']",['High PostTest'],0.5,0.9805825242718447,1.04802999948631
+"['Low CN', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.5,0.8347107438016529,1.0408121620242832
+"['Low CN', 'Normal Stress', 'Normal Depression']",['Positive Delta'],0.4306930693069307,0.8055555555555555,1.004458161865569
+"['Low CN', 'Positive Delta', 'Normal Depression']",['High PostTest'],0.42574257425742573,0.9772727272727273,1.0444925444925444
+"['Low CN', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.42574257425742573,0.8431372549019608,1.0513192931493585
+"['Low CN', 'Normal Stress', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.4207920792079208,0.8415841584158416,1.0493827160493827
+"['Low CN', 'Positive Delta', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.4207920792079208,0.9770114942528736,1.0442133430639178
+"['Low CN', 'High TP', 'Normal Stress']",['Positive Delta'],0.41089108910891087,0.8058252427184466,1.0047944384513963
+"['Low CN', 'Positive Delta', 'High TP']",['High PostTest'],0.41089108910891087,0.9764705882352941,1.043635231870526
+"['Low CN', 'High TP', 'High PostTest']",['Positive Delta'],0.41089108910891087,0.83,1.0349382716049382
+"['Low CN', 'High TP', 'Normal Depression']",['Positive Delta'],0.3712871287128713,0.8333333333333333,1.0390946502057612
+"['Low CN', 'High TP', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.400990099009901,0.8350515463917526,1.041237113402062
+"['Low CN', 'Positive Delta', 'High TP', 'Normal Stress']",['High PostTest'],0.400990099009901,0.9759036144578315,1.04302925989673
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression']",['Positive Delta'],0.36633663366336633,0.8314606741573034,1.0367596060479956
+"['Low CN', 'High TP', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.3613861386138614,0.8588235294117647,1.0708787218591138
+"['Low CN', 'Positive Delta', 'High TP', 'Normal Depression']",['High PostTest'],0.3613861386138614,0.9733333333333333,1.0402821869488534
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.3564356435643564,0.8571428571428571,1.0687830687830686
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'Positive Delta']",['High PostTest'],0.3564356435643564,0.9729729729729729,1.0398970398970397
+"['Low CN', 'Moderate CRF', 'Positive Delta']",['High PostTest'],0.4158415841584158,0.9882352941176471,1.0562091503267974
+"['Low CN', 'Moderate CRF', 'High PostTest']",['Positive Delta'],0.4158415841584158,0.8316831683168316,1.037037037037037
+"['Low CN', 'Moderate CRF', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.40594059405940597,0.8282828282828284,1.032797106871181
+"['Low CN', 'Moderate CRF', 'Positive Delta', 'Normal Stress']",['High PostTest'],0.40594059405940597,0.9879518072289157,1.0559061643398993
+"['Low CN', 'Moderate CRF', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.3415841584158416,0.8313253012048194,1.036590807675145
+"['Low CN', 'Moderate CRF', 'Positive Delta', 'Normal Depression']",['High PostTest'],0.3415841584158416,0.9857142857142859,1.0535147392290252
+"['Low CN', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Moderate CRF']",['Positive Delta'],0.33663366336633666,0.8292682926829268,1.0340258958145137
+"['Low CN', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'Moderate CRF']",['High PostTest'],0.33663366336633666,0.9855072463768115,1.0532934590905605
+"['Low CN', 'Moderate CRF', 'High TP', 'High PostTest']",['Positive Delta'],0.3217821782178218,0.8333333333333334,1.0390946502057612
+"['Low CN', 'Moderate CRF', 'Positive Delta', 'High TP']",['High PostTest'],0.3217821782178218,0.9848484848484849,1.0525893859227191
+"['Low CN', 'High TP', 'Normal Stress', 'High PostTest', 'Moderate CRF']",['Positive Delta'],0.3118811881188119,0.8289473684210527,1.0336257309941521
+"['Low CN', 'High TP', 'Normal Stress', 'Positive Delta', 'Moderate CRF']",['High PostTest'],0.3118811881188119,0.984375,1.0520833333333333
+"['Low CN', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.400990099009901,0.9759036144578315,1.04302925989673
+"['Low CN', 'Moderate ESF', 'High PostTest']",['Positive Delta'],0.400990099009901,0.8181818181818182,1.02020202020202
+"['Low CN', 'High TP', 'Moderate ESF']",['Positive Delta'],0.3415841584158416,0.8023255813953489,1.0004306632213609
+"['Low CN', 'Normal Stress', 'Moderate ESF', 'High PostTest']",['Positive Delta'],0.3910891089108911,0.8144329896907218,1.0155275550464555
+"['Low CN', 'Positive Delta', 'Normal Stress', 'Moderate ESF']",['High PostTest'],0.3910891089108911,0.9753086419753086,1.0423933633810176
+"['Low CN', 'Moderate ESF', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.33663366336633666,0.8292682926829268,1.0340258958145137
+"['Low CN', 'Positive Delta', 'Moderate ESF', 'Normal Depression']",['High PostTest'],0.33663366336633666,0.9714285714285715,1.038246409674981
+"['Low CN', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Moderate ESF']",['Positive Delta'],0.3316831683168317,0.8271604938271605,1.0313976527968296
+"['Low CN', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.3316831683168317,0.9710144927536232,1.0378038493980521
+"['Low CN', 'Moderate CRF', 'Moderate ESF', 'High PostTest']",['Positive Delta'],0.33663366336633666,0.8095238095238096,1.009406231628454
+"['Low CN', 'Moderate CRF', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.33663366336633666,0.9855072463768115,1.0532934590905605
+"['Low CN', 'Normal Stress', 'High PostTest', 'Moderate ESF', 'Moderate CRF']",['Positive Delta'],0.32673267326732675,0.8048780487804877,1.003613369467028
+"['Low CN', 'Normal Stress', 'Positive Delta', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.32673267326732675,0.9850746268656716,1.0528310826818288
+"['Low CN', 'High TP', 'Moderate ESF', 'High PostTest']",['Positive Delta'],0.3316831683168317,0.8271604938271605,1.0313976527968296
+"['Low CN', 'Positive Delta', 'High TP', 'Moderate ESF']",['High PostTest'],0.3316831683168317,0.9710144927536232,1.0378038493980521
+"['Low CN', 'High TP', 'Normal Stress', 'High PostTest', 'Moderate ESF']",['Positive Delta'],0.3217821782178218,0.8227848101265822,1.0259415533677136
+"['Low CN', 'High TP', 'Normal Stress', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.3217821782178218,0.9701492537313433,1.0368790965805892
+"['Low CN', 'High PreTest']",['High PostTest'],0.4405940594059406,0.9468085106382979,1.0119329055499267
+"['Low CN', 'Moderate CRF']",['High PreTest'],0.39603960396039606,0.7407407407407407,1.0042257022122794
+"['Low CN', 'High TP']",['High PreTest'],0.3910891089108911,0.7452830188679245,1.010383690008864
+"['Low CN', 'High PreTest', 'Normal Stress']",['High PostTest'],0.4306930693069307,0.9456521739130435,1.0106970324361628
+"['Low CN', 'Moderate CRF', 'Normal Stress']",['High PreTest'],0.3910891089108911,0.7452830188679245,1.010383690008864
+"['Low CN', 'Moderate CRF', 'High PreTest']",['High PostTest'],0.3712871287128713,0.9375,1.001984126984127
+"['Low CN', 'Moderate CRF', 'High PostTest']",['High PreTest'],0.3712871287128713,0.7425742574257426,1.0067114093959733
+"['Low CN', 'Moderate CRF', 'High PreTest', 'Normal Stress']",['High PostTest'],0.36633663366336633,0.9367088607594937,1.0011385707588238
+"['Low CN', 'Moderate CRF', 'Normal Stress', 'High PostTest']",['High PreTest'],0.36633663366336633,0.7474747474747475,1.0133550267778457
+"['Low CN', 'High TP', 'Normal Stress']",['High PreTest'],0.3811881188118812,0.7475728155339806,1.0134879781064703
+"['Low CN', 'High PreTest', 'High TP']",['High PostTest'],0.3712871287128713,0.9493670886075949,1.0146674703636729
+"['Low CN', 'High TP', 'High PostTest']",['High PreTest'],0.3712871287128713,0.75,1.016778523489933
+"['Low CN', 'Moderate CRF', 'High TP']",['High PreTest'],0.3217821782178218,0.783132530120482,1.0616964502304522
+"['Low CN', 'High PreTest', 'High TP', 'Normal Stress']",['High PostTest'],0.3613861386138614,0.948051948051948,1.0132618704047274
+"['Low CN', 'High TP', 'Normal Stress', 'High PostTest']",['High PreTest'],0.3613861386138614,0.7525773195876289,1.0202726077630941
+"['Low CN', 'Moderate CRF', 'High TP', 'Normal Stress']",['High PreTest'],0.31683168316831684,0.7901234567901234,1.0711740823597646
+"['Low CN', 'Moderate CRF', 'High PreTest', 'High TP']",['High PostTest'],0.30198019801980197,0.9384615384615385,1.003011803011803
+"['Low CN', 'Moderate CRF', 'High TP', 'High PostTest']",['High PreTest'],0.30198019801980197,0.782051282051282,1.0602305971433488
+"['Low CN', 'High PreTest', 'Normal Depression']",['High PostTest'],0.36633663366336633,0.9487179487179487,1.0139736806403472
+"['Low CN', 'High TP', 'Normal Depression']",['High PreTest'],0.3316831683168317,0.7444444444444445,1.0092468307233409
+"['Low CN', 'Moderate CRF', 'Normal Depression']",['High PreTest'],0.3316831683168317,0.752808988764045,1.0205866827539403
+"['Low CN', 'High PreTest', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.36633663366336633,0.9487179487179487,1.0139736806403472
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression']",['High PreTest'],0.3316831683168317,0.752808988764045,1.0205866827539403
+"['Low CN', 'High PreTest', 'High TP', 'Normal Depression']",['High PostTest'],0.31683168316831684,0.9552238805970149,1.0209271104793491
+"['Low CN', 'High TP', 'Normal Depression', 'High PostTest']",['High PreTest'],0.31683168316831684,0.7529411764705882,1.020765890248717
+"['Low CN', 'High TP', 'High PreTest', 'Normal Stress', 'Normal Depression']",['High PostTest'],0.31683168316831684,0.9552238805970149,1.0209271104793491
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'High PostTest']",['High PreTest'],0.31683168316831684,0.761904761904762,1.0329178651326303
+"['Low CN', 'Moderate CRF', 'Normal Stress', 'Normal Depression']",['High PreTest'],0.3316831683168317,0.7613636363636364,1.0321842586943257
+"['Low CN', 'Moderate CRF', 'High PreTest', 'Normal Depression']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Low CN', 'Moderate CRF', 'Normal Depression', 'High PostTest']",['High PreTest'],0.3118811881188119,0.7590361445783133,1.029028867146438
+"['Low CN', 'High PreTest', 'Normal Stress', 'Normal Depression', 'Moderate CRF']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Low CN', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Moderate CRF']",['High PreTest'],0.3118811881188119,0.7682926829268292,1.041577999672614
+"['Low CN', 'High PreTest', 'Moderate ESF']",['High PostTest'],0.3613861386138614,0.948051948051948,1.0132618704047274
+"['Low CN', 'Normal Depression', 'Moderate ESF']",['High PreTest'],0.3316831683168317,0.752808988764045,1.0205866827539403
+"['Low CN', 'High TP', 'Moderate ESF']",['High PreTest'],0.3316831683168317,0.7790697674418605,1.0561885437802405
+"['Low CN', 'Moderate CRF', 'Moderate ESF']",['High PreTest'],0.3316831683168317,0.7444444444444445,1.0092468307233409
+"['Low CN', 'High PreTest', 'Normal Stress', 'Moderate ESF']",['High PostTest'],0.3564356435643564,0.9473684210526315,1.012531328320802
+"['Low CN', 'Normal Stress', 'Moderate ESF', 'High PostTest']",['High PreTest'],0.3564356435643564,0.7422680412371134,1.006296270670449
+"['Low CN', 'Normal Stress', 'Moderate ESF', 'Normal Depression']",['High PreTest'],0.3316831683168317,0.7613636363636364,1.0321842586943257
+"['Low CN', 'High PreTest', 'Moderate ESF', 'Normal Depression']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Low CN', 'Moderate ESF', 'Normal Depression', 'High PostTest']",['High PreTest'],0.3118811881188119,0.7682926829268292,1.041577999672614
+"['Low CN', 'High PreTest', 'Normal Stress', 'Normal Depression', 'Moderate ESF']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Low CN', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Moderate ESF']",['High PreTest'],0.3118811881188119,0.7777777777777777,1.0544369873228931
+"['Low CN', 'High TP', 'Normal Stress', 'Moderate ESF']",['High PreTest'],0.32673267326732675,0.7857142857142858,1.065196548418025
+"['Low CN', 'High PreTest', 'High TP', 'Moderate ESF']",['High PostTest'],0.31683168316831684,0.9552238805970149,1.0209271104793491
+"['Low CN', 'High TP', 'Moderate ESF', 'High PostTest']",['High PreTest'],0.31683168316831684,0.7901234567901234,1.0711740823597646
+"['Low CN', 'High TP', 'High PreTest', 'Normal Stress', 'Moderate ESF']",['High PostTest'],0.3118811881188119,0.9545454545454545,1.02020202020202
+"['Low CN', 'High TP', 'Normal Stress', 'High PostTest', 'Moderate ESF']",['High PreTest'],0.3118811881188119,0.7974683544303797,1.0811315945968907
+"['Low CN', 'Moderate CRF', 'Normal Stress', 'Moderate ESF']",['High PreTest'],0.32673267326732675,0.75,1.016778523489933
+"['Low CN', 'Moderate CRF', 'High PreTest', 'Moderate ESF']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Low CN', 'Moderate CRF', 'Moderate ESF', 'High PostTest']",['High PreTest'],0.3118811881188119,0.75,1.016778523489933
+"['Low CN', 'High PreTest', 'Normal Stress', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.3069306930693069,0.9393939393939393,1.0040083373416706
+"['Low CN', 'Normal Stress', 'High PostTest', 'Moderate ESF', 'Moderate CRF']",['High PreTest'],0.3069306930693069,0.7560975609756097,1.0250450155508266
+"['Low CN', 'Positive Delta', 'High PreTest']",['High PostTest'],0.33663366336633666,1.0,1.0687830687830686
+"['Low CN', 'Positive Delta', 'High PreTest', 'Normal Stress']",['High PostTest'],0.3316831683168317,1.0,1.0687830687830686
+"['Low CN', 'Normal Stress', 'High CP']",['High PreTest'],0.35148514851485146,0.7395833333333334,1.0026565995525727
+"['Low CN', 'High TP', 'High CP']",['High PreTest'],0.33663366336633666,0.7391304347826088,1.002042602859644
+"['Low CN', 'High PreTest', 'High CP']",['High PostTest'],0.33663366336633666,0.9444444444444445,1.0094062316284538
+"['Low CN', 'High CP', 'High PostTest']",['High PreTest'],0.33663366336633666,0.7391304347826088,1.002042602859644
+"['Low CN', 'High CP', 'Normal Depression']",['High PreTest'],0.3118811881188119,0.7411764705882353,1.0048164232135808
+"['Low CN', 'High TP', 'Normal Stress', 'High CP']",['High PreTest'],0.3316831683168317,0.7444444444444445,1.0092468307233409
+"['Low CN', 'High PreTest', 'Normal Stress', 'High CP']",['High PostTest'],0.3316831683168317,0.943661971830986,1.008569938147403
+"['Low CN', 'Normal Stress', 'High CP', 'High PostTest']",['High PreTest'],0.3316831683168317,0.7444444444444445,1.0092468307233409
+"['Low CN', 'High PreTest', 'High TP', 'High CP']",['High PostTest'],0.31683168316831684,0.9411764705882353,1.0059134765017117
+"['Low CN', 'High TP', 'High CP', 'High PostTest']",['High PreTest'],0.31683168316831684,0.7441860465116279,1.0088965194318713
+"['Low CN', 'High TP', 'High PreTest', 'Normal Stress', 'High CP']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Low CN', 'High TP', 'Normal Stress', 'High PostTest', 'High CP']",['High PreTest'],0.3118811881188119,0.75,1.016778523489933
+"['Low CN', 'Normal Stress', 'High CP', 'Normal Depression']",['High PreTest'],0.3118811881188119,0.75,1.016778523489933
+"['Low CN', 'High CP']",['High PostTest'],0.45544554455445546,0.9387755102040817,1.0033473706943095
+"['Low CN', 'High CP']",['Positive Delta'],0.3910891089108911,0.8061224489795918,1.0051650289745528
+"['Low CN', 'Normal Stress', 'High CP']",['High PostTest'],0.44554455445544555,0.9375000000000001,1.001984126984127
+"['Low CN', 'High CP', 'Normal Depression']",['High PostTest'],0.39603960396039606,0.9411764705882354,1.005913476501712
+"['Low CN', 'Normal Stress', 'High CP', 'Normal Depression']",['High PostTest'],0.3910891089108911,0.9404761904761906,1.0051650289745528
+"['Low CN', 'High TP', 'High CP', 'Normal Depression']",['High PostTest'],0.3712871287128713,0.9375,1.001984126984127
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'High CP']",['High PostTest'],0.36633663366336633,0.9367088607594937,1.0011385707588238
+"['Low CN', 'Normal Stress', 'High CP']",['Positive Delta'],0.38613861386138615,0.8125000000000001,1.0131172839506173
+"['Low CN', 'Positive Delta', 'High CP']",['High PostTest'],0.3811881188118812,0.9746835443037974,1.0417252695733707
+"['Low CN', 'High CP', 'High PostTest']",['Positive Delta'],0.3811881188118812,0.8369565217391304,1.0436124530327429
+"['Low CN', 'High TP', 'High CP']",['Positive Delta'],0.36633663366336633,0.8043478260869564,1.0029522275899085
+"['Low CN', 'High CP', 'Normal Depression']",['Positive Delta'],0.35148514851485146,0.8352941176470589,1.0415395787944808
+"['Low CN', 'Normal Stress', 'High CP', 'High PostTest']",['Positive Delta'],0.37623762376237624,0.8444444444444444,1.052949245541838
+"['Low CN', 'Positive Delta', 'Normal Stress', 'High CP']",['High PostTest'],0.37623762376237624,0.9743589743589743,1.041378374711708
+"['Low CN', 'High TP', 'Normal Stress', 'High CP']",['Positive Delta'],0.3613861386138614,0.8111111111111111,1.0113854595336076
+"['Low CN', 'High TP', 'High CP', 'High PostTest']",['Positive Delta'],0.3564356435643564,0.8372093023255813,1.0439276485788112
+"['Low CN', 'Positive Delta', 'High TP', 'High CP']",['High PostTest'],0.3564356435643564,0.9729729729729729,1.0398970398970397
+"['Low CN', 'High TP', 'Normal Stress', 'High PostTest', 'High CP']",['Positive Delta'],0.35148514851485146,0.8452380952380952,1.053938859494415
+"['Low CN', 'High TP', 'Normal Stress', 'Positive Delta', 'High CP']",['High PostTest'],0.35148514851485146,0.9726027397260274,1.0395013408712037
+"['Low CN', 'Normal Stress', 'High CP', 'Normal Depression']",['Positive Delta'],0.3465346534653465,0.8333333333333333,1.0390946502057612
+"['Low CN', 'High CP', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.3415841584158416,0.8625,1.075462962962963
+"['Low CN', 'Positive Delta', 'High CP', 'Normal Depression']",['High PostTest'],0.3415841584158416,0.9718309859154931,1.0386765034652359
+"['Low CN', 'High TP', 'High CP', 'Normal Depression']",['Positive Delta'],0.3316831683168317,0.8375,1.04429012345679
+"['Low CN', 'Normal Stress', 'Normal Depression', 'High PostTest', 'High CP']",['Positive Delta'],0.33663366336633666,0.8607594936708861,1.0732927019846852
+"['Low CN', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'High CP']",['High PostTest'],0.33663366336633666,0.9714285714285715,1.038246409674981
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'High CP']",['Positive Delta'],0.32673267326732675,0.8354430379746836,1.0417252695733707
+"['Low CN', 'High TP', 'Normal Depression', 'High PostTest', 'High CP']",['Positive Delta'],0.3217821782178218,0.8666666666666667,1.0806584362139917
+"['Low CN', 'High TP', 'Normal Depression', 'Positive Delta', 'High CP']",['High PostTest'],0.3217821782178218,0.9701492537313433,1.0368790965805892
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'High CP']",['Positive Delta'],0.31683168316831684,0.8648648648648649,1.0784117450784116
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'High CP']",['High PostTest'],0.31683168316831684,0.9696969696969697,1.0363957030623696
+"['Low CN', 'High CP', 'Moderate ESF']",['High PostTest'],0.3613861386138614,0.9358974358974358,1.0002713336046667
+"['Low CN', 'Moderate CRF', 'High CP', 'Normal Depression']",['High PostTest'],0.3069306930693069,0.9393939393939393,1.0040083373416706
+"['Low CN', 'Normal Stress', 'Normal Depression', 'High CP', 'Moderate CRF']",['High PostTest'],0.30198019801980197,0.9384615384615385,1.003011803011803
+['Low TN'],['High PostTest'],0.5297029702970297,0.9385964912280703,1.0031560382437577
+"['Normal Stress', 'Low TN']",['High PostTest'],0.5247524752475248,0.9380530973451326,1.0025752680619935
+"['Low CN', 'Low TN']",['High PostTest'],0.504950495049505,0.9444444444444444,1.0094062316284538
+"['Low CN', 'Normal Stress', 'Low TN']",['High PostTest'],0.5,0.9439252336448598,1.0088513079167285
+"['Low CN', 'Low TN', 'Normal Depression']",['High PostTest'],0.45544554455445546,0.9387755102040817,1.0033473706943095
+"['Low CN', 'Normal Stress', 'Low TN', 'Normal Depression']",['High PostTest'],0.4504950495049505,0.9381443298969073,1.0026727758686522
+"['High TP', 'Low TN']",['High PostTest'],0.44554455445544555,0.9375000000000001,1.001984126984127
+"['High TP', 'Normal Stress', 'Low TN']",['High PostTest'],0.4405940594059406,0.9368421052631579,1.0012809802283487
+"['Low CN', 'High TP', 'Low TN']",['High PostTest'],0.4207920792079208,0.9444444444444444,1.0094062316284538
+"['Low CN', 'High TP', 'Normal Stress', 'Low TN']",['High PostTest'],0.4158415841584158,0.9438202247191011,1.0087390761548065
+"['Low CN', 'High TP', 'Low TN', 'Normal Depression']",['High PostTest'],0.3811881188118812,0.9390243902439024,1.003613369467028
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'Low TN']",['High PostTest'],0.37623762376237624,0.9382716049382716,1.002808805277941
+"['Moderate ESF', 'Low TN']",['High PostTest'],0.43564356435643564,0.9361702127659574,1.0005628729032983
+"['High TP', 'Low TN', 'Moderate ESF']",['High PostTest'],0.36633663366336633,0.9367088607594937,1.0011385707588238
+"['High TP', 'Normal Stress', 'Low TN', 'Moderate ESF']",['High PostTest'],0.3613861386138614,0.9358974358974358,1.0002713336046667
+"['Positive Delta', 'Low TN']",['High PostTest'],0.4405940594059406,0.978021978021978,1.0452933310076167
+"['Low TN', 'High PostTest']",['Positive Delta'],0.4405940594059406,0.8317757009345794,1.0371524172147224
+"['Low CN', 'Low TN']",['Positive Delta'],0.4306930693069307,0.8055555555555555,1.004458161865569
+"['Low TN', 'Normal Depression']",['Positive Delta'],0.4158415841584158,0.8155339805825242,1.0169003955411722
+"['High TP', 'Low TN']",['Positive Delta'],0.38613861386138615,0.8125000000000001,1.0131172839506173
+"['Positive Delta', 'Normal Stress', 'Low TN']",['High PostTest'],0.43564356435643564,0.9777777777777777,1.0450323339212226
+"['Normal Stress', 'Low TN', 'High PostTest']",['Positive Delta'],0.43564356435643564,0.830188679245283,1.0351735383181924
+"['Low CN', 'Normal Stress', 'Low TN']",['Positive Delta'],0.42574257425742573,0.8037383177570093,1.0021922233760239
+"['Low CN', 'Positive Delta', 'Low TN']",['High PostTest'],0.4207920792079208,0.9770114942528736,1.0442133430639178
+"['Low CN', 'Low TN', 'High PostTest']",['Positive Delta'],0.4207920792079208,0.8333333333333333,1.0390946502057612
+"['Low CN', 'Normal Stress', 'Low TN', 'High PostTest']",['Positive Delta'],0.4158415841584158,0.8316831683168316,1.037037037037037
+"['Low CN', 'Positive Delta', 'Normal Stress', 'Low TN']",['High PostTest'],0.4158415841584158,0.9767441860465116,1.0439276485788114
+"['Normal Stress', 'Low TN', 'Normal Depression']",['Positive Delta'],0.41089108910891087,0.8137254901960784,1.014645364318567
+"['Positive Delta', 'Low TN', 'Normal Depression']",['High PostTest'],0.40594059405940597,0.9761904761904763,1.0433358528596623
+"['Low TN', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.40594059405940597,0.8541666666666667,1.0650720164609053
+"['Low CN', 'Low TN', 'Normal Depression']",['Positive Delta'],0.39603960396039606,0.8163265306122449,1.0178886369362559
+"['Normal Stress', 'Low TN', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.400990099009901,0.8526315789473685,1.063157894736842
+"['Positive Delta', 'Normal Stress', 'Low TN', 'Normal Depression']",['High PostTest'],0.400990099009901,0.9759036144578315,1.04302925989673
+"['Low CN', 'Normal Stress', 'Low TN', 'Normal Depression']",['Positive Delta'],0.3910891089108911,0.8144329896907218,1.0155275550464555
+"['Low CN', 'Low TN', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.38613861386138615,0.8478260869565217,1.0571658615136876
+"['Low CN', 'Positive Delta', 'Low TN', 'Normal Depression']",['High PostTest'],0.38613861386138615,0.975,1.042063492063492
+"['Low CN', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Low TN']",['Positive Delta'],0.3811881188118812,0.8461538461538461,1.0550807217473883
+"['Low CN', 'Normal Stress', 'Normal Depression', 'Low TN', 'Positive Delta']",['High PostTest'],0.3811881188118812,0.9746835443037974,1.0417252695733707
+"['High TP', 'Normal Stress', 'Low TN']",['Positive Delta'],0.3811881188118812,0.8105263157894738,1.0106562703053932
+"['High TP', 'Positive Delta', 'Low TN']",['High PostTest'],0.37623762376237624,0.9743589743589743,1.041378374711708
+"['High TP', 'Low TN', 'High PostTest']",['Positive Delta'],0.37623762376237624,0.8444444444444444,1.052949245541838
+"['Low CN', 'High TP', 'Low TN']",['Positive Delta'],0.36633663366336633,0.8222222222222222,1.0252400548696845
+"['High TP', 'Low TN', 'Normal Depression']",['Positive Delta'],0.3613861386138614,0.8390804597701149,1.0462608202071804
+"['High TP', 'Normal Stress', 'Low TN', 'High PostTest']",['Positive Delta'],0.3712871287128713,0.8426966292134831,1.05076987099459
+"['High TP', 'Positive Delta', 'Normal Stress', 'Low TN']",['High PostTest'],0.3712871287128713,0.974025974025974,1.041022469593898
+"['Low CN', 'High TP', 'Normal Stress', 'Low TN']",['Positive Delta'],0.3613861386138614,0.8202247191011236,1.022749341101401
+"['Low CN', 'High TP', 'Low TN', 'High PostTest']",['Positive Delta'],0.3564356435643564,0.8470588235294118,1.0562091503267974
+"['Low CN', 'Positive Delta', 'High TP', 'Low TN']",['High PostTest'],0.3564356435643564,0.9729729729729729,1.0398970398970397
+"['Low CN', 'High TP', 'Normal Stress', 'High PostTest', 'Low TN']",['Positive Delta'],0.35148514851485146,0.8452380952380952,1.053938859494415
+"['Low CN', 'High TP', 'Normal Stress', 'Low TN', 'Positive Delta']",['High PostTest'],0.35148514851485146,0.9726027397260274,1.0395013408712037
+"['High TP', 'Normal Stress', 'Low TN', 'Normal Depression']",['Positive Delta'],0.3564356435643564,0.8372093023255813,1.0439276485788112
+"['High TP', 'Low TN', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.35148514851485146,0.8765432098765431,1.0929736320682821
+"['High TP', 'Positive Delta', 'Low TN', 'Normal Depression']",['High PostTest'],0.35148514851485146,0.9726027397260274,1.0395013408712037
+"['Low CN', 'High TP', 'Low TN', 'Normal Depression']",['Positive Delta'],0.3415841584158416,0.8414634146341463,1.0492321589882565
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Low TN']",['Positive Delta'],0.3465346534653465,0.8749999999999999,1.0910493827160492
+"['High TP', 'Normal Stress', 'Normal Depression', 'Low TN', 'Positive Delta']",['High PostTest'],0.3465346534653465,0.9722222222222222,1.0390946502057612
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'Low TN']",['Positive Delta'],0.33663366336633666,0.8395061728395061,1.0467916476146928
+"['Low CN', 'High TP', 'Normal Depression', 'High PostTest', 'Low TN']",['Positive Delta'],0.3316831683168317,0.8701298701298702,1.0849767516434183
+"['Low CN', 'High TP', 'Normal Depression', 'Low TN', 'Positive Delta']",['High PostTest'],0.3316831683168317,0.9710144927536232,1.0378038493980521
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Low TN']",['Positive Delta'],0.32673267326732675,0.868421052631579,1.0828460038986354
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'Low TN', 'Positive Delta']",['High PostTest'],0.32673267326732675,0.9705882352941176,1.0373482726423902
+"['Moderate ESF', 'Positive Delta', 'Low TN']",['High PostTest'],0.3564356435643564,0.9729729729729729,1.0398970398970397
+"['Moderate ESF', 'Low TN', 'High PostTest']",['Positive Delta'],0.3564356435643564,0.8181818181818181,1.02020202020202
+"['Moderate ESF', 'Low TN', 'Normal Depression']",['Positive Delta'],0.33663366336633666,0.8095238095238096,1.009406231628454
+"['High TP', 'Low TN', 'Moderate ESF']",['Positive Delta'],0.31683168316831684,0.810126582278481,1.0101578371620565
+"['Moderate ESF', 'Normal Stress', 'Low TN', 'High PostTest']",['Positive Delta'],0.35148514851485146,0.8160919540229885,1.0175961402015041
+"['Moderate ESF', 'Positive Delta', 'Normal Stress', 'Low TN']",['High PostTest'],0.35148514851485146,0.9726027397260274,1.0395013408712037
+"['Low CN', 'Low TN', 'Moderate ESF', 'High PostTest']",['Positive Delta'],0.33663366336633666,0.819277108433735,1.0215677524914473
+"['Low CN', 'Positive Delta', 'Low TN', 'Moderate ESF']",['High PostTest'],0.33663366336633666,0.9714285714285715,1.038246409674981
+"['Low CN', 'Normal Stress', 'High PostTest', 'Low TN', 'Moderate ESF']",['Positive Delta'],0.3316831683168317,0.8170731707317073,1.0188196326407708
+"['Low CN', 'Normal Stress', 'Low TN', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.3316831683168317,0.9710144927536232,1.0378038493980521
+"['Moderate ESF', 'Normal Stress', 'Low TN', 'Normal Depression']",['Positive Delta'],0.3316831683168317,0.8072289156626506,1.0065446973077494
+"['Moderate ESF', 'Low TN', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.32673267326732675,0.8461538461538461,1.0550807217473883
+"['Moderate ESF', 'Positive Delta', 'Low TN', 'Normal Depression']",['High PostTest'],0.32673267326732675,0.9705882352941176,1.0373482726423902
+"['Normal Stress', 'Normal Depression', 'High PostTest', 'Low TN', 'Moderate ESF']",['Positive Delta'],0.3217821782178218,0.8441558441558442,1.0525893859227193
+"['Normal Stress', 'Normal Depression', 'Low TN', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.3217821782178218,0.9701492537313433,1.0368790965805892
+"['Low CN', 'Normal Depression', 'High PostTest', 'Low TN', 'Moderate ESF']",['Positive Delta'],0.3069306930693069,0.8378378378378378,1.0447113780447113
+"['Low CN', 'Normal Depression', 'Low TN', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.3069306930693069,0.96875,1.035383597883598
+"['Low CN', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Low TN', 'Moderate ESF']",['Positive Delta'],0.30198019801980197,0.8356164383561644,1.0419414848638593
+"['Low CN', 'Normal Stress', 'Normal Depression', 'Low TN', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.30198019801980197,0.9682539682539683,1.0348534475518603
+"['High TP', 'Normal Stress', 'Low TN', 'Moderate ESF']",['Positive Delta'],0.3118811881188119,0.8076923076923077,1.0071225071225072
+"['High TP', 'Low TN', 'Moderate ESF', 'High PostTest']",['Positive Delta'],0.3069306930693069,0.8378378378378378,1.0447113780447113
+"['High TP', 'Positive Delta', 'Low TN', 'Moderate ESF']",['High PostTest'],0.3069306930693069,0.96875,1.035383597883598
+"['High TP', 'Normal Stress', 'High PostTest', 'Low TN', 'Moderate ESF']",['Positive Delta'],0.30198019801980197,0.8356164383561644,1.0419414848638593
+"['High TP', 'Normal Stress', 'Low TN', 'Positive Delta', 'Moderate ESF']",['High PostTest'],0.30198019801980197,0.9682539682539683,1.0348534475518603
+"['Moderate CRF', 'Low TN']",['High PostTest'],0.42574257425742573,0.945054945054945,1.0100587243444386
+"['Moderate CRF', 'Normal Stress', 'Low TN']",['High PostTest'],0.4207920792079208,0.9444444444444444,1.0094062316284538
+"['Low CN', 'Moderate CRF', 'Low TN']",['High PostTest'],0.40594059405940597,0.942528735632184,1.0073587544851912
+"['Low CN', 'Moderate CRF', 'Normal Stress', 'Low TN']",['High PostTest'],0.400990099009901,0.9418604651162792,1.0066445182724253
+"['Moderate CRF', 'Low TN', 'Normal Depression']",['High PostTest'],0.38613861386138615,0.9397590361445783,1.0043985465672212
+"['Moderate CRF', 'Normal Stress', 'Low TN', 'Normal Depression']",['High PostTest'],0.3811881188118812,0.9390243902439024,1.003613369467028
+"['Low CN', 'Moderate CRF', 'Low TN', 'Normal Depression']",['High PostTest'],0.36633663366336633,0.9367088607594937,1.0011385707588238
+"['Low CN', 'Normal Stress', 'Normal Depression', 'Low TN', 'Moderate CRF']",['High PostTest'],0.3613861386138614,0.9358974358974358,1.0002713336046667
+"['Moderate ESF', 'Moderate CRF', 'Low TN']",['High PostTest'],0.3613861386138614,0.9358974358974358,1.0002713336046667
+"['High TP', 'Moderate CRF', 'Low TN']",['High PostTest'],0.3465346534653465,0.9459459459459459,1.0110110110110109
+"['High TP', 'Moderate CRF', 'Normal Stress', 'Low TN']",['High PostTest'],0.3415841584158416,0.9452054794520549,1.010219612959339
+"['Low CN', 'Moderate CRF', 'High TP', 'Low TN']",['High PostTest'],0.32673267326732675,0.942857142857143,1.0077097505668935
+"['Low CN', 'High TP', 'Normal Stress', 'Low TN', 'Moderate CRF']",['High PostTest'],0.3217821782178218,0.9420289855072463,1.0068246300130357
+"['High TP', 'Moderate CRF', 'Low TN', 'Normal Depression']",['High PostTest'],0.31683168316831684,0.9411764705882353,1.0059134765017117
+"['High TP', 'Normal Stress', 'Normal Depression', 'Low TN', 'Moderate CRF']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Moderate CRF', 'Positive Delta', 'Low TN']",['High PostTest'],0.35148514851485146,0.986111111111111,1.053938859494415
+"['Moderate CRF', 'Low TN', 'High PostTest']",['Positive Delta'],0.35148514851485146,0.8255813953488372,1.0294286534596613
+"['Moderate CRF', 'Normal Stress', 'Low TN', 'High PostTest']",['Positive Delta'],0.3465346534653465,0.8235294117647058,1.026870007262164
+"['Moderate CRF', 'Positive Delta', 'Normal Stress', 'Low TN']",['High PostTest'],0.3465346534653465,0.9859154929577465,1.0537297861241524
+"['Low CN', 'Moderate CRF', 'Low TN', 'High PostTest']",['Positive Delta'],0.3316831683168317,0.8170731707317073,1.0188196326407708
+"['Low CN', 'Moderate CRF', 'Positive Delta', 'Low TN']",['High PostTest'],0.3316831683168317,0.9852941176470588,1.0530656707127295
+"['Low CN', 'Normal Stress', 'High PostTest', 'Low TN', 'Moderate CRF']",['Positive Delta'],0.32673267326732675,0.8148148148148148,1.0160036579789664
+"['Low CN', 'Normal Stress', 'Low TN', 'Positive Delta', 'Moderate CRF']",['High PostTest'],0.32673267326732675,0.9850746268656716,1.0528310826818288
+"['Moderate CRF', 'Low TN', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.3217821782178218,0.8333333333333334,1.0390946502057612
+"['Moderate CRF', 'Positive Delta', 'Low TN', 'Normal Depression']",['High PostTest'],0.3217821782178218,0.9848484848484849,1.0525893859227191
+"['Normal Stress', 'Normal Depression', 'High PostTest', 'Low TN', 'Moderate CRF']",['Positive Delta'],0.31683168316831684,0.8311688311688311,1.0363957030623696
+"['Normal Stress', 'Normal Depression', 'Low TN', 'Positive Delta', 'Moderate CRF']",['High PostTest'],0.31683168316831684,0.9846153846153846,1.0523402523402523
+"['Low CN', 'Normal Depression', 'High PostTest', 'Low TN', 'Moderate CRF']",['Positive Delta'],0.30198019801980197,0.8243243243243243,1.027861194527861
+"['Low CN', 'Normal Depression', 'Low TN', 'Positive Delta', 'Moderate CRF']",['High PostTest'],0.30198019801980197,0.9838709677419355,1.0515446321897934
+"['High PreTest', 'Low TN']",['High PostTest'],0.38613861386138615,0.9512195121951219,1.016647309330236
+"['High TP', 'Low TN']",['High PreTest'],0.3564356435643564,0.75,1.016778523489933
+"['Moderate ESF', 'Low TN']",['High PreTest'],0.35148514851485146,0.7553191489361701,1.023989718691989
+"['Moderate CRF', 'Low TN']",['High PreTest'],0.3415841584158416,0.7582417582417583,1.0279519138579543
+"['Low TN', 'High CP']",['High PreTest'],0.3316831683168317,0.7444444444444445,1.0092468307233409
+"['High PreTest', 'Normal Stress', 'Low TN']",['High PostTest'],0.38613861386138615,0.9512195121951219,1.016647309330236
+"['Low CN', 'High PreTest', 'Low TN']",['High PostTest'],0.36633663366336633,0.961038961038961,1.0271421699993128
+"['Low CN', 'High PreTest', 'Normal Stress', 'Low TN']",['High PostTest'],0.36633663366336633,0.961038961038961,1.0271421699993128
+"['High PreTest', 'Low TN', 'Normal Depression']",['High PostTest'],0.3415841584158416,0.9452054794520549,1.010219612959339
+"['High PreTest', 'Normal Stress', 'Low TN', 'Normal Depression']",['High PostTest'],0.3415841584158416,0.9452054794520549,1.010219612959339
+"['Low CN', 'High PreTest', 'Low TN', 'Normal Depression']",['High PostTest'],0.32673267326732675,0.9565217391304347,1.0223142397055438
+"['Low CN', 'High PreTest', 'Normal Stress', 'Normal Depression', 'Low TN']",['High PostTest'],0.32673267326732675,0.9565217391304347,1.0223142397055438
+"['High TP', 'Normal Stress', 'Low TN']",['High PreTest'],0.3564356435643564,0.7578947368421053,1.0274814553161427
+"['High TP', 'High PreTest', 'Low TN']",['High PostTest'],0.33663366336633666,0.9444444444444445,1.0094062316284538
+"['High TP', 'Low TN', 'High PostTest']",['High PreTest'],0.33663366336633666,0.7555555555555556,1.0243102162565252
+"['Low CN', 'High TP', 'Low TN']",['High PreTest'],0.3316831683168317,0.7444444444444445,1.0092468307233409
+"['High TP', 'Low TN', 'Normal Depression']",['High PreTest'],0.3217821782178218,0.7471264367816092,1.012882820334799
+"['High TP', 'High PreTest', 'Normal Stress', 'Low TN']",['High PostTest'],0.33663366336633666,0.9444444444444445,1.0094062316284538
+"['High TP', 'Normal Stress', 'Low TN', 'High PostTest']",['High PreTest'],0.33663366336633666,0.7640449438202248,1.0358193198099692
+"['Low CN', 'High TP', 'Normal Stress', 'Low TN']",['High PreTest'],0.3316831683168317,0.752808988764045,1.0205866827539403
+"['Low CN', 'High PreTest', 'High TP', 'Low TN']",['High PostTest'],0.31683168316831684,0.9552238805970149,1.0209271104793491
+"['Low CN', 'High TP', 'Low TN', 'High PostTest']",['High PreTest'],0.31683168316831684,0.7529411764705882,1.020765890248717
+"['Low CN', 'High TP', 'High PreTest', 'Normal Stress', 'Low TN']",['High PostTest'],0.31683168316831684,0.9552238805970149,1.0209271104793491
+"['Low CN', 'High TP', 'Normal Stress', 'High PostTest', 'Low TN']",['High PreTest'],0.31683168316831684,0.761904761904762,1.0329178651326303
+"['High TP', 'Normal Stress', 'Low TN', 'Normal Depression']",['High PreTest'],0.3217821782178218,0.7558139534883721,1.0246605275479943
+"['Low CN', 'High TP', 'Low TN', 'Normal Depression']",['High PreTest'],0.30198019801980197,0.7439024390243901,1.008512031429039
+"['High TP', 'High PreTest', 'Low TN', 'Normal Depression']",['High PostTest'],0.30198019801980197,0.9384615384615385,1.003011803011803
+"['High TP', 'Low TN', 'Normal Depression', 'High PostTest']",['High PreTest'],0.30198019801980197,0.7530864197530863,1.0209627972491506
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'Low TN']",['High PreTest'],0.30198019801980197,0.7530864197530863,1.0209627972491506
+"['High TP', 'High PreTest', 'Normal Stress', 'Normal Depression', 'Low TN']",['High PostTest'],0.30198019801980197,0.9384615384615385,1.003011803011803
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Low TN']",['High PreTest'],0.30198019801980197,0.7625,1.033724832214765
+"['Moderate ESF', 'Normal Stress', 'Low TN']",['High PreTest'],0.35148514851485146,0.7634408602150536,1.035000360828462
+"['Moderate ESF', 'High PreTest', 'Low TN']",['High PostTest'],0.33663366336633666,0.9577464788732396,1.0236232208063196
+"['Moderate ESF', 'Low TN', 'High PostTest']",['High PreTest'],0.33663366336633666,0.7727272727272728,1.0475899938987188
+"['Low CN', 'Low TN', 'Moderate ESF']",['High PreTest'],0.3316831683168317,0.752808988764045,1.0205866827539403
+"['High TP', 'Low TN', 'Moderate ESF']",['High PreTest'],0.3118811881188119,0.7974683544303797,1.0811315945968907
+"['Moderate ESF', 'Low TN', 'Normal Depression']",['High PreTest'],0.3118811881188119,0.75,1.016778523489933
+"['Moderate ESF', 'High PreTest', 'Normal Stress', 'Low TN']",['High PostTest'],0.33663366336633666,0.9577464788732396,1.0236232208063196
+"['Moderate ESF', 'Normal Stress', 'Low TN', 'High PostTest']",['High PreTest'],0.33663366336633666,0.7816091954022989,1.0596312581964051
+"['Low CN', 'Normal Stress', 'Low TN', 'Moderate ESF']",['High PreTest'],0.3316831683168317,0.7613636363636364,1.0321842586943257
+"['Low CN', 'High PreTest', 'Low TN', 'Moderate ESF']",['High PostTest'],0.31683168316831684,0.9552238805970149,1.0209271104793491
+"['Low CN', 'Low TN', 'Moderate ESF', 'High PostTest']",['High PreTest'],0.31683168316831684,0.7710843373493976,1.045362658688445
+"['Low CN', 'High PreTest', 'Normal Stress', 'Low TN', 'Moderate ESF']",['High PostTest'],0.31683168316831684,0.9552238805970149,1.0209271104793491
+"['Low CN', 'Normal Stress', 'High PostTest', 'Low TN', 'Moderate ESF']",['High PreTest'],0.31683168316831684,0.7804878048780487,1.0581109837944016
+"['High TP', 'Normal Stress', 'Low TN', 'Moderate ESF']",['High PreTest'],0.3118811881188119,0.8076923076923077,1.0949922560660816
+"['Moderate ESF', 'Normal Stress', 'Low TN', 'Normal Depression']",['High PreTest'],0.3118811881188119,0.7590361445783133,1.029028867146438
+"['Moderate CRF', 'Normal Stress', 'Low TN']",['High PreTest'],0.3415841584158416,0.7666666666666667,1.0393736017897093
+"['Low CN', 'Moderate CRF', 'Low TN']",['High PreTest'],0.32673267326732675,0.7586206896551725,1.0284656329553346
+"['Moderate CRF', 'High PreTest', 'Low TN']",['High PostTest'],0.32673267326732675,0.9565217391304347,1.0223142397055438
+"['Moderate CRF', 'Low TN', 'High PostTest']",['High PreTest'],0.32673267326732675,0.7674418604651163,1.0404245356641175
+"['Moderate CRF', 'Low TN', 'Normal Depression']",['High PreTest'],0.3069306930693069,0.746987951807229,1.0126950756044313
+"['Moderate ESF', 'Moderate CRF', 'Low TN']",['High PreTest'],0.30198019801980197,0.782051282051282,1.0602305971433488
+"['Low CN', 'Moderate CRF', 'Normal Stress', 'Low TN']",['High PreTest'],0.32673267326732675,0.7674418604651163,1.0404245356641175
+"['Moderate CRF', 'High PreTest', 'Normal Stress', 'Low TN']",['High PostTest'],0.32673267326732675,0.9565217391304347,1.0223142397055438
+"['Moderate CRF', 'Normal Stress', 'Low TN', 'High PostTest']",['High PreTest'],0.32673267326732675,0.7764705882352941,1.0526648243189893
+"['Low CN', 'Moderate CRF', 'High PreTest', 'Low TN']",['High PostTest'],0.3118811881188119,0.9545454545454545,1.02020202020202
+"['Low CN', 'Moderate CRF', 'Low TN', 'High PostTest']",['High PreTest'],0.3118811881188119,0.7682926829268292,1.041577999672614
+"['Low CN', 'High PreTest', 'Normal Stress', 'Low TN', 'Moderate CRF']",['High PostTest'],0.3118811881188119,0.9545454545454545,1.02020202020202
+"['Low CN', 'Normal Stress', 'High PostTest', 'Low TN', 'Moderate CRF']",['High PreTest'],0.3118811881188119,0.7777777777777777,1.0544369873228931
+"['Moderate CRF', 'Normal Stress', 'Low TN', 'Normal Depression']",['High PreTest'],0.3069306930693069,0.7560975609756097,1.0250450155508266
+"['Moderate ESF', 'Moderate CRF', 'Normal Stress', 'Low TN']",['High PreTest'],0.30198019801980197,0.7922077922077921,1.073999825677678
+"['Normal Stress', 'Low TN', 'High CP']",['High PreTest'],0.3316831683168317,0.752808988764045,1.0205866827539403
+"['High TP', 'Low TN', 'High CP']",['High PreTest'],0.3217821782178218,0.7471264367816092,1.012882820334799
+"['High PreTest', 'Low TN', 'High CP']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Low TN', 'High CP', 'High PostTest']",['High PreTest'],0.3118811881188119,0.75,1.016778523489933
+"['Low CN', 'Low TN', 'High CP']",['High PreTest'],0.3069306930693069,0.7380952380952381,1.0006391818472355
+"['High CP', 'Low TN', 'Normal Depression']",['High PreTest'],0.30198019801980197,0.7439024390243901,1.008512031429039
+"['High TP', 'Normal Stress', 'Low TN', 'High CP']",['High PreTest'],0.3217821782178218,0.7558139534883721,1.0246605275479943
+"['High PreTest', 'Normal Stress', 'Low TN', 'High CP']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Normal Stress', 'Low TN', 'High CP', 'High PostTest']",['High PreTest'],0.3118811881188119,0.7590361445783133,1.029028867146438
+"['High TP', 'High PreTest', 'Low TN', 'High CP']",['High PostTest'],0.30198019801980197,0.9384615384615385,1.003011803011803
+"['High TP', 'Low TN', 'High CP', 'High PostTest']",['High PreTest'],0.30198019801980197,0.7530864197530863,1.0209627972491506
+"['High TP', 'High PreTest', 'Normal Stress', 'Low TN', 'High CP']",['High PostTest'],0.30198019801980197,0.9384615384615385,1.003011803011803
+"['High TP', 'Normal Stress', 'High PostTest', 'Low TN', 'High CP']",['High PreTest'],0.30198019801980197,0.7625,1.033724832214765
+"['Low CN', 'Normal Stress', 'Low TN', 'High CP']",['High PreTest'],0.3069306930693069,0.746987951807229,1.0126950756044313
+"['High CP', 'Normal Stress', 'Low TN', 'Normal Depression']",['High PreTest'],0.30198019801980197,0.7530864197530863,1.0209627972491506
+"['Low CN', 'Low TN', 'High CP']",['High PostTest'],0.3910891089108911,0.9404761904761906,1.0051650289745528
+"['Low CN', 'Normal Stress', 'Low TN', 'High CP']",['High PostTest'],0.38613861386138615,0.9397590361445783,1.0043985465672212
+"['Low CN', 'High TP', 'Low TN', 'High CP']",['High PostTest'],0.37623762376237624,0.9382716049382716,1.002808805277941
+"['Low CN', 'High TP', 'Normal Stress', 'Low TN', 'High CP']",['High PostTest'],0.3712871287128713,0.9375,1.001984126984127
+"['Positive Delta', 'Low TN', 'High CP']",['High PostTest'],0.3465346534653465,0.9722222222222222,1.0390946502057612
+"['Low TN', 'High CP', 'High PostTest']",['Positive Delta'],0.3465346534653465,0.8333333333333333,1.0390946502057612
+"['High TP', 'Low TN', 'High CP']",['Positive Delta'],0.3465346534653465,0.8045977011494252,1.003263800198666
+"['High CP', 'Low TN', 'Normal Depression']",['Positive Delta'],0.33663366336633666,0.8292682926829268,1.0340258958145137
+"['Low CN', 'Low TN', 'High CP']",['Positive Delta'],0.33663366336633666,0.8095238095238096,1.009406231628454
+"['Normal Stress', 'Low TN', 'High CP', 'High PostTest']",['Positive Delta'],0.3415841584158416,0.8313253012048194,1.036590807675145
+"['Positive Delta', 'Normal Stress', 'Low TN', 'High CP']",['High PostTest'],0.3415841584158416,0.9718309859154931,1.0386765034652359
+"['High TP', 'Normal Stress', 'Low TN', 'High CP']",['Positive Delta'],0.3415841584158416,0.8023255813953489,1.0004306632213609
+"['High TP', 'Low TN', 'High CP', 'High PostTest']",['Positive Delta'],0.33663366336633666,0.8395061728395061,1.0467916476146928
+"['High TP', 'Positive Delta', 'Low TN', 'High CP']",['High PostTest'],0.33663366336633666,0.9714285714285715,1.038246409674981
+"['High TP', 'Normal Stress', 'High PostTest', 'Low TN', 'High CP']",['Positive Delta'],0.3316831683168317,0.8375,1.04429012345679
+"['High TP', 'Normal Stress', 'Low TN', 'Positive Delta', 'High CP']",['High PostTest'],0.3316831683168317,0.9710144927536232,1.0378038493980521
+"['High CP', 'Normal Stress', 'Low TN', 'Normal Depression']",['Positive Delta'],0.3316831683168317,0.8271604938271605,1.0313976527968296
+"['High TP', 'High CP', 'Low TN', 'Normal Depression']",['Positive Delta'],0.32673267326732675,0.8354430379746836,1.0417252695733707
+"['High CP', 'Low TN', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.32673267326732675,0.868421052631579,1.0828460038986354
+"['Positive Delta', 'High CP', 'Low TN', 'Normal Depression']",['High PostTest'],0.32673267326732675,0.9705882352941176,1.0373482726423902
+"['High TP', 'Normal Stress', 'Normal Depression', 'Low TN', 'High CP']",['Positive Delta'],0.3217821782178218,0.8333333333333334,1.0390946502057612
+"['Normal Stress', 'Normal Depression', 'High PostTest', 'Low TN', 'High CP']",['Positive Delta'],0.3217821782178218,0.8666666666666667,1.0806584362139917
+"['Normal Stress', 'Normal Depression', 'Low TN', 'Positive Delta', 'High CP']",['High PostTest'],0.3217821782178218,0.9701492537313433,1.0368790965805892
+"['High TP', 'Normal Depression', 'High PostTest', 'Low TN', 'High CP']",['Positive Delta'],0.31683168316831684,0.8767123287671234,1.0931845087096228
+"['High TP', 'Normal Depression', 'Low TN', 'Positive Delta', 'High CP']",['High PostTest'],0.31683168316831684,0.9696969696969697,1.0363957030623696
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Low TN', 'High CP']",['Positive Delta'],0.3118811881188119,0.875,1.0910493827160492
+"['High TP', 'Normal Stress', 'Normal Depression', 'Low TN', 'Positive Delta', 'High CP']",['High PostTest'],0.3118811881188119,0.9692307692307692,1.0358974358974358
+"['Low CN', 'Normal Stress', 'Low TN', 'High CP']",['Positive Delta'],0.3316831683168317,0.8072289156626506,1.0065446973077494
+"['Low CN', 'High TP', 'Low TN', 'High CP']",['Positive Delta'],0.32673267326732675,0.8148148148148148,1.0160036579789664
+"['Low CN', 'Low TN', 'High CP', 'High PostTest']",['Positive Delta'],0.32673267326732675,0.8354430379746836,1.0417252695733707
+"['Low CN', 'Positive Delta', 'Low TN', 'High CP']",['High PostTest'],0.32673267326732675,0.9705882352941176,1.0373482726423902
+"['Low CN', 'High CP', 'Low TN', 'Normal Depression']",['Positive Delta'],0.31683168316831684,0.8311688311688311,1.0363957030623696
+"['Low CN', 'High TP', 'Normal Stress', 'Low TN', 'High CP']",['Positive Delta'],0.3217821782178218,0.8125,1.0131172839506173
+"['Low CN', 'Normal Stress', 'High PostTest', 'Low TN', 'High CP']",['Positive Delta'],0.3217821782178218,0.8333333333333334,1.0390946502057612
+"['Low CN', 'Normal Stress', 'Low TN', 'Positive Delta', 'High CP']",['High PostTest'],0.3217821782178218,0.9701492537313433,1.0368790965805892
+"['Low CN', 'High TP', 'High PostTest', 'Low TN', 'High CP']",['Positive Delta'],0.31683168316831684,0.8421052631578947,1.0500324886289798
+"['Low CN', 'High TP', 'Low TN', 'Positive Delta', 'High CP']",['High PostTest'],0.31683168316831684,0.9696969696969697,1.0363957030623696
+"['Low CN', 'High TP', 'Normal Stress', 'High PostTest', 'Low TN', 'High CP']",['Positive Delta'],0.3118811881188119,0.84,1.0474074074074073
+"['Low CN', 'High TP', 'Normal Stress', 'Low TN', 'Positive Delta', 'High CP']",['High PostTest'],0.3118811881188119,0.9692307692307692,1.0358974358974358
+"['Low CN', 'Normal Stress', 'Normal Depression', 'Low TN', 'High CP']",['Positive Delta'],0.3118811881188119,0.8289473684210527,1.0336257309941521
+"['Low CN', 'Normal Depression', 'High PostTest', 'Low TN', 'High CP']",['Positive Delta'],0.3069306930693069,0.8611111111111112,1.0737311385459534
+"['Low CN', 'Normal Depression', 'Low TN', 'Positive Delta', 'High CP']",['High PostTest'],0.3069306930693069,0.96875,1.035383597883598
+"['Low CN', 'High TP', 'Normal Depression', 'Low TN', 'High CP']",['Positive Delta'],0.3069306930693069,0.8378378378378378,1.0447113780447113
+"['Low CN', 'Normal Stress', 'Normal Depression', 'High PostTest', 'Low TN', 'High CP']",['Positive Delta'],0.30198019801980197,0.8591549295774649,1.0712919492262216
+"['Low CN', 'Normal Stress', 'Normal Depression', 'Low TN', 'Positive Delta', 'High CP']",['High PostTest'],0.30198019801980197,0.9682539682539683,1.0348534475518603
+"['Low CN', 'High TP', 'Normal Stress', 'Normal Depression', 'Low TN', 'High CP']",['Positive Delta'],0.30198019801980197,0.8356164383561644,1.0419414848638593
+"['Moderate CRF', 'Low TN', 'High CP']",['High PostTest'],0.31683168316831684,0.9411764705882353,1.0059134765017117
+"['Moderate CRF', 'Normal Stress', 'Low TN', 'High CP']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['High TP', 'Moderate CRF', 'Low TN', 'High CP']",['High PostTest'],0.3069306930693069,0.9393939393939393,1.0040083373416706
+"['High TP', 'Normal Stress', 'Low TN', 'High CP', 'Moderate CRF']",['High PostTest'],0.30198019801980197,0.9384615384615385,1.003011803011803
+['Normal Anxiety'],['Positive Delta'],0.3811881188118812,0.8020833333333334,1.0001286008230452
+['Normal Anxiety'],['High PreTest'],0.3564356435643564,0.75,1.016778523489933
+"['High TP', 'Normal Anxiety']",['High PostTest'],0.3613861386138614,0.948051948051948,1.0132618704047274
+"['High TP', 'Normal Stress', 'Normal Anxiety']",['High PostTest'],0.3613861386138614,0.948051948051948,1.0132618704047274
+"['High TP', 'Normal Depression', 'Normal Anxiety']",['High PostTest'],0.33663366336633666,0.9444444444444445,1.0094062316284538
+"['High TP', 'Normal Stress', 'Normal Depression', 'Normal Anxiety']",['High PostTest'],0.33663366336633666,0.9444444444444445,1.0094062316284538
+"['High TP', 'Low TN', 'Normal Anxiety']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['High TP', 'Normal Stress', 'Low TN', 'Normal Anxiety']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['High TP', 'Moderate ESF', 'Normal Anxiety']",['High PostTest'],0.30198019801980197,0.9384615384615385,1.003011803011803
+"['High TP', 'Normal Stress', 'Moderate ESF', 'Normal Anxiety']",['High PostTest'],0.30198019801980197,0.9384615384615385,1.003011803011803
+"['Normal Stress', 'Normal Anxiety']",['Positive Delta'],0.3811881188118812,0.8020833333333334,1.0001286008230452
+"['Positive Delta', 'Normal Anxiety']",['High PostTest'],0.36633663366336633,0.961038961038961,1.0271421699993128
+"['Normal Anxiety', 'High PostTest']",['Positive Delta'],0.36633663366336633,0.8314606741573034,1.0367596060479956
+"['Normal Depression', 'Normal Anxiety']",['Positive Delta'],0.35148514851485146,0.8068181818181818,1.0060325476992142
+"['High TP', 'Normal Anxiety']",['Positive Delta'],0.31683168316831684,0.8311688311688311,1.0363957030623696
+"['Positive Delta', 'Normal Stress', 'Normal Anxiety']",['High PostTest'],0.36633663366336633,0.961038961038961,1.0271421699993128
+"['Normal Anxiety', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.36633663366336633,0.8314606741573034,1.0367596060479956
+"['Normal Stress', 'Normal Depression', 'Normal Anxiety']",['Positive Delta'],0.35148514851485146,0.8068181818181818,1.0060325476992142
+"['Positive Delta', 'Normal Depression', 'Normal Anxiety']",['High PostTest'],0.33663366336633666,0.9577464788732396,1.0236232208063196
+"['Normal Anxiety', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.33663366336633666,0.8395061728395061,1.0467916476146928
+"['Normal Anxiety', 'Normal Stress', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.33663366336633666,0.8395061728395061,1.0467916476146928
+"['Positive Delta', 'Normal Stress', 'Normal Depression', 'Normal Anxiety']",['High PostTest'],0.33663366336633666,0.9577464788732396,1.0236232208063196
+"['Moderate ESF', 'Positive Delta', 'Normal Anxiety']",['High PostTest'],0.3118811881188119,0.9545454545454545,1.02020202020202
+"['Moderate ESF', 'Normal Anxiety', 'High PostTest']",['Positive Delta'],0.3118811881188119,0.8289473684210527,1.0336257309941521
+"['Moderate ESF', 'Normal Anxiety', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.3118811881188119,0.8289473684210527,1.0336257309941521
+"['Moderate ESF', 'Positive Delta', 'Normal Stress', 'Normal Anxiety']",['High PostTest'],0.3118811881188119,0.9545454545454545,1.02020202020202
+"['High TP', 'Normal Stress', 'Normal Anxiety']",['Positive Delta'],0.31683168316831684,0.8311688311688311,1.0363957030623696
+"['High TP', 'Positive Delta', 'Normal Anxiety']",['High PostTest'],0.3069306930693069,0.96875,1.035383597883598
+"['High TP', 'High PostTest', 'Normal Anxiety']",['Positive Delta'],0.3069306930693069,0.8493150684931507,1.0590224928124472
+"['High TP', 'Normal Depression', 'Normal Anxiety']",['Positive Delta'],0.30198019801980197,0.8472222222222222,1.0564128943758573
+"['High TP', 'Normal Anxiety', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.3069306930693069,0.8493150684931507,1.0590224928124472
+"['High TP', 'Positive Delta', 'Normal Stress', 'Normal Anxiety']",['High PostTest'],0.3069306930693069,0.96875,1.035383597883598
+"['High TP', 'Normal Stress', 'Normal Depression', 'Normal Anxiety']",['Positive Delta'],0.30198019801980197,0.8472222222222222,1.0564128943758573
+"['Moderate CRF', 'Positive Delta', 'Normal Anxiety']",['High PostTest'],0.3069306930693069,0.96875,1.035383597883598
+"['Normal Anxiety', 'Moderate CRF', 'High PostTest']",['Positive Delta'],0.3069306930693069,0.8266666666666667,1.0307818930041153
+"['Normal Anxiety', 'Moderate CRF', 'Normal Stress', 'High PostTest']",['Positive Delta'],0.3069306930693069,0.8266666666666667,1.0307818930041153
+"['Moderate CRF', 'Positive Delta', 'Normal Stress', 'Normal Anxiety']",['High PostTest'],0.3069306930693069,0.96875,1.035383597883598
+"['Normal Stress', 'Normal Anxiety']",['High PreTest'],0.3564356435643564,0.75,1.016778523489933
+"['High PreTest', 'Normal Anxiety']",['High PostTest'],0.3415841584158416,0.9583333333333335,1.0242504409171076
+"['Normal Anxiety', 'High PostTest']",['High PreTest'],0.3415841584158416,0.7752808988764045,1.0510519568659982
+"['Normal Depression', 'Normal Anxiety']",['High PreTest'],0.3316831683168317,0.7613636363636364,1.0321842586943257
+"['Moderate ESF', 'Normal Anxiety']",['High PreTest'],0.31683168316831684,0.7710843373493976,1.045362658688445
+"['Moderate CRF', 'Normal Anxiety']",['High PreTest'],0.3118811881188119,0.7777777777777777,1.0544369873228931
+"['High TP', 'Normal Anxiety']",['High PreTest'],0.30198019801980197,0.7922077922077921,1.073999825677678
+"['High PreTest', 'Normal Stress', 'Normal Anxiety']",['High PostTest'],0.3415841584158416,0.9583333333333335,1.0242504409171076
+"['Normal Anxiety', 'Normal Stress', 'High PostTest']",['High PreTest'],0.3415841584158416,0.7752808988764045,1.0510519568659982
+"['Normal Stress', 'Normal Depression', 'Normal Anxiety']",['High PreTest'],0.3316831683168317,0.7613636363636364,1.0321842586943257
+"['High PreTest', 'Normal Depression', 'Normal Anxiety']",['High PostTest'],0.31683168316831684,0.9552238805970149,1.0209271104793491
+"['Normal Anxiety', 'Normal Depression', 'High PostTest']",['High PreTest'],0.31683168316831684,0.7901234567901234,1.0711740823597646
+"['High PreTest', 'Normal Stress', 'Normal Depression', 'Normal Anxiety']",['High PostTest'],0.31683168316831684,0.9552238805970149,1.0209271104793491
+"['Normal Anxiety', 'Normal Stress', 'Normal Depression', 'High PostTest']",['High PreTest'],0.31683168316831684,0.7901234567901234,1.0711740823597646
+"['Moderate ESF', 'Normal Stress', 'Normal Anxiety']",['High PreTest'],0.31683168316831684,0.7710843373493976,1.045362658688445
+"['Moderate ESF', 'High PreTest', 'Normal Anxiety']",['High PostTest'],0.30198019801980197,0.953125,1.0186838624338623
+"['Moderate ESF', 'Normal Anxiety', 'High PostTest']",['High PreTest'],0.30198019801980197,0.8026315789473684,1.0881314023313315
+"['Moderate ESF', 'High PreTest', 'Normal Stress', 'Normal Anxiety']",['High PostTest'],0.30198019801980197,0.953125,1.0186838624338623
+"['Moderate ESF', 'Normal Anxiety', 'Normal Stress', 'High PostTest']",['High PreTest'],0.30198019801980197,0.8026315789473684,1.0881314023313315
+"['Moderate CRF', 'Normal Stress', 'Normal Anxiety']",['High PreTest'],0.3118811881188119,0.7777777777777777,1.0544369873228931
+"['High TP', 'Normal Stress', 'Normal Anxiety']",['High PreTest'],0.30198019801980197,0.7922077922077921,1.073999825677678
+"['High CP', 'Normal Anxiety']",['High PostTest'],0.33663366336633666,0.9444444444444445,1.0094062316284538
+"['Normal Stress', 'High CP', 'Normal Anxiety']",['High PostTest'],0.33663366336633666,0.9444444444444445,1.0094062316284538
+"['High TP', 'High CP', 'Normal Anxiety']",['High PostTest'],0.31683168316831684,0.9411764705882353,1.0059134765017117
+"['High TP', 'Normal Stress', 'High CP', 'Normal Anxiety']",['High PostTest'],0.31683168316831684,0.9411764705882353,1.0059134765017117
+"['High CP', 'Normal Depression', 'Normal Anxiety']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Normal Stress', 'High CP', 'Normal Depression', 'Normal Anxiety']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+['Moderate TN'],['High PostTest'],0.3811881188118812,0.9390243902439024,1.003613369467028
+['Moderate TN'],['Positive Delta'],0.32673267326732675,0.8048780487804877,1.003613369467028
+['Moderate TN'],['High PreTest'],0.3069306930693069,0.7560975609756097,1.0250450155508266
+"['Moderate ESF', 'Moderate TN']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['Positive Delta', 'Moderate TN']",['High PostTest'],0.3217821782178218,0.9848484848484849,1.0525893859227191
+"['Moderate TN', 'High PostTest']",['Positive Delta'],0.3217821782178218,0.8441558441558442,1.0525893859227193
+"['Normal Stress', 'Moderate TN']",['High PostTest'],0.3069306930693069,0.9393939393939393,1.0040083373416706
+['Moderate CN'],['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+['High CP'],['High PostTest'],0.6336633663366337,0.9411764705882353,1.0059134765017117
+['High CP'],['High PreTest'],0.5099009900990099,0.7573529411764706,1.026746940386893
+"['High TP', 'High CP']",['High PostTest'],0.5742574257425742,0.9430894308943089,1.0079580160880972
+"['Normal Stress', 'High CP']",['High PostTest'],0.5693069306930693,0.9426229508196721,1.0074594500824008
+"['High TP', 'Normal Stress', 'High CP']",['High PostTest'],0.5148514851485149,0.9369369369369369,1.001382334715668
+"['Positive Delta', 'High CP']",['High PostTest'],0.5297029702970297,0.981651376146789,1.0491723702732876
+"['High CP', 'High PostTest']",['Positive Delta'],0.5297029702970297,0.8359375,1.0423418209876543
+"['Normal Stress', 'High CP']",['Positive Delta'],0.4900990099009901,0.8114754098360656,1.01183970856102
+"['High TP', 'High CP']",['Positive Delta'],0.4900990099009901,0.8048780487804879,1.003613369467028
+"['Positive Delta', 'Normal Stress', 'High CP']",['High PostTest'],0.4801980198019802,0.9797979797979798,1.047191491635936
+"['Normal Stress', 'High CP', 'High PostTest']",['Positive Delta'],0.4801980198019802,0.8434782608695652,1.0517444981213098
+"['High TP', 'Positive Delta', 'High CP']",['High PostTest'],0.4801980198019802,0.9797979797979798,1.047191491635936
+"['High TP', 'High CP', 'High PostTest']",['Positive Delta'],0.4801980198019802,0.8362068965517242,1.042677735206471
+"['High TP', 'Normal Stress', 'High CP']",['Positive Delta'],0.44554455445544555,0.8108108108108107,1.0110110110110109
+"['High TP', 'Normal Stress', 'High CP', 'High PostTest']",['Positive Delta'],0.43564356435643564,0.8461538461538461,1.0550807217473883
+"['High TP', 'Positive Delta', 'Normal Stress', 'High CP']",['High PostTest'],0.43564356435643564,0.9777777777777777,1.0450323339212226
+"['Moderate ESF', 'High CP']",['High PostTest'],0.5148514851485149,0.9541284403669724,1.019756322508616
+"['High TP', 'High CP', 'Moderate ESF']",['High PostTest'],0.4801980198019802,0.9509803921568627,1.016391741881938
+"['Moderate ESF', 'Normal Stress', 'High CP']",['High PostTest'],0.46534653465346537,0.9494949494949496,1.0148041259152372
+"['High TP', 'Normal Stress', 'Moderate ESF', 'High CP']",['High PostTest'],0.4306930693069307,0.9456521739130435,1.0106970324361628
+"['Moderate ESF', 'Positive Delta', 'High CP']",['High PostTest'],0.4207920792079208,0.9770114942528736,1.0442133430639178
+"['Moderate ESF', 'High CP', 'High PostTest']",['Positive Delta'],0.4207920792079208,0.8173076923076923,1.0191120607787274
+"['High TP', 'High CP', 'Moderate ESF']",['Positive Delta'],0.40594059405940597,0.803921568627451,1.0024207213749696
+"['High TP', 'Moderate ESF', 'High CP', 'High PostTest']",['Positive Delta'],0.39603960396039606,0.8247422680412372,1.0283823342242586
+"['High TP', 'Positive Delta', 'Moderate ESF', 'High CP']",['High PostTest'],0.39603960396039606,0.975609756097561,1.0427151890566524
+"['Moderate ESF', 'Normal Stress', 'High CP', 'High PostTest']",['Positive Delta'],0.3811881188118812,0.8191489361702128,1.0214079327554504
+"['Moderate ESF', 'Positive Delta', 'Normal Stress', 'High CP']",['High PostTest'],0.3811881188118812,0.9746835443037974,1.0417252695733707
+"['High TP', 'Normal Stress', 'Moderate ESF', 'High CP']",['Positive Delta'],0.36633663366336633,0.8043478260869564,1.0029522275899085
+"['High TP', 'Normal Stress', 'High PostTest', 'High CP', 'Moderate ESF']",['Positive Delta'],0.3564356435643564,0.8275862068965517,1.0319284802043422
+"['High TP', 'Normal Stress', 'Positive Delta', 'High CP', 'Moderate ESF']",['High PostTest'],0.3564356435643564,0.9729729729729729,1.0398970398970397
+"['High CP', 'Normal Depression']",['High PostTest'],0.504950495049505,0.9444444444444444,1.0094062316284538
+"['High CP', 'Normal Depression']",['Positive Delta'],0.44554455445544555,0.8333333333333333,1.0390946502057612
+"['Normal Stress', 'High CP', 'Normal Depression']",['High PostTest'],0.49504950495049505,0.9433962264150942,1.0082859139462912
+"['High TP', 'High CP', 'Normal Depression']",['High PostTest'],0.4603960396039604,0.9393939393939394,1.0040083373416706
+"['High TP', 'Normal Stress', 'High CP', 'Normal Depression']",['High PostTest'],0.4504950495049505,0.9381443298969073,1.0026727758686522
+"['Positive Delta', 'High CP', 'Normal Depression']",['High PostTest'],0.43564356435643564,0.9777777777777777,1.0450323339212226
+"['High CP', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.43564356435643564,0.8627450980392157,1.075768579036553
+"['Normal Stress', 'High CP', 'Normal Depression']",['Positive Delta'],0.43564356435643564,0.830188679245283,1.0351735383181924
+"['High TP', 'High CP', 'Normal Depression']",['Positive Delta'],0.41089108910891087,0.8383838383838383,1.0453921935403416
+"['Normal Stress', 'High CP', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.42574257425742573,0.86,1.0723456790123456
+"['Positive Delta', 'Normal Stress', 'High CP', 'Normal Depression']",['High PostTest'],0.42574257425742573,0.9772727272727273,1.0444925444925444
+"['High TP', 'Normal Stress', 'High CP', 'Normal Depression']",['Positive Delta'],0.400990099009901,0.8350515463917526,1.041237113402062
+"['High TP', 'High CP', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.400990099009901,0.8709677419354839,1.086021505376344
+"['High TP', 'Positive Delta', 'High CP', 'Normal Depression']",['High PostTest'],0.400990099009901,0.9759036144578315,1.04302925989673
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'High CP']",['Positive Delta'],0.3910891089108911,0.8681318681318682,1.0824854158187491
+"['High TP', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'High CP']",['High PostTest'],0.3910891089108911,0.9753086419753086,1.0423933633810176
+"['Moderate ESF', 'High CP', 'Normal Depression']",['High PostTest'],0.41089108910891087,0.9431818181818181,1.0080567580567579
+"['Moderate ESF', 'High CP', 'Normal Depression']",['Positive Delta'],0.3564356435643564,0.8181818181818181,1.02020202020202
+"['Moderate ESF', 'Normal Stress', 'High CP', 'Normal Depression']",['High PostTest'],0.400990099009901,0.9418604651162792,1.0066445182724253
+"['High TP', 'Moderate ESF', 'High CP', 'Normal Depression']",['High PostTest'],0.38613861386138615,0.9397590361445783,1.0043985465672212
+"['High TP', 'Normal Stress', 'Normal Depression', 'High CP', 'Moderate ESF']",['High PostTest'],0.37623762376237624,0.9382716049382716,1.002808805277941
+"['Moderate ESF', 'High CP', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.3465346534653465,0.8433734939759036,1.0516138628588427
+"['Moderate ESF', 'Positive Delta', 'High CP', 'Normal Depression']",['High PostTest'],0.3465346534653465,0.9722222222222222,1.0390946502057612
+"['Moderate ESF', 'Normal Stress', 'High CP', 'Normal Depression']",['Positive Delta'],0.3465346534653465,0.813953488372093,1.014929658340511
+"['High TP', 'Moderate ESF', 'High CP', 'Normal Depression']",['Positive Delta'],0.3415841584158416,0.8313253012048194,1.036590807675145
+"['Normal Stress', 'Normal Depression', 'High PostTest', 'High CP', 'Moderate ESF']",['Positive Delta'],0.33663366336633666,0.8395061728395061,1.0467916476146928
+"['Normal Stress', 'Normal Depression', 'Positive Delta', 'High CP', 'Moderate ESF']",['High PostTest'],0.33663366336633666,0.9714285714285715,1.038246409674981
+"['High TP', 'Normal Stress', 'Normal Depression', 'High CP', 'Moderate ESF']",['Positive Delta'],0.3316831683168317,0.8271604938271605,1.0313976527968296
+"['High TP', 'Normal Depression', 'High PostTest', 'High CP', 'Moderate ESF']",['Positive Delta'],0.3316831683168317,0.858974358974359,1.0710667932890154
+"['High TP', 'Normal Depression', 'Positive Delta', 'High CP', 'Moderate ESF']",['High PostTest'],0.3316831683168317,0.9710144927536232,1.0378038493980521
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'High CP', 'Moderate ESF']",['Positive Delta'],0.3217821782178218,0.8552631578947368,1.0664392462638077
+"['High TP', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'High CP', 'Moderate ESF']",['High PostTest'],0.3217821782178218,0.9701492537313433,1.0368790965805892
+"['High PreTest', 'High CP']",['High PostTest'],0.4801980198019802,0.9417475728155339,1.0065238608927929
+"['High CP', 'High PostTest']",['High PreTest'],0.4801980198019802,0.7578125,1.027369966442953
+"['High TP', 'High CP']",['High PreTest'],0.46534653465346537,0.7642276422764228,1.0360670049653518
+"['Normal Stress', 'High CP']",['High PreTest'],0.4504950495049505,0.7459016393442623,1.0112223566949061
+"['Moderate ESF', 'High CP']",['High PreTest'],0.4158415841584158,0.7706422018348623,1.0447632534942428
+"['High CP', 'Normal Depression']",['High PreTest'],0.40594059405940597,0.7592592592592593,1.0293313447675865
+"['High TP', 'High PreTest', 'High CP']",['High PostTest'],0.4405940594059406,0.9468085106382979,1.0119329055499267
+"['High TP', 'High CP', 'High PostTest']",['High PreTest'],0.4405940594059406,0.7672413793103449,1.040152742420736
+"['High PreTest', 'Normal Stress', 'High CP']",['High PostTest'],0.42574257425742573,0.945054945054945,1.0100587243444386
+"['Normal Stress', 'High CP', 'High PostTest']",['High PreTest'],0.42574257425742573,0.7478260869565218,1.0138313393638752
+"['High TP', 'Normal Stress', 'High CP']",['High PreTest'],0.4158415841584158,0.7567567567567567,1.0259386903682204
+"['High TP', 'High PreTest', 'Normal Stress', 'High CP']",['High PostTest'],0.3910891089108911,0.9404761904761906,1.0051650289745528
+"['High TP', 'Normal Stress', 'High CP', 'High PostTest']",['High PreTest'],0.3910891089108911,0.7596153846153846,1.0298141455859577
+"['Moderate ESF', 'High PreTest', 'High CP']",['High PostTest'],0.400990099009901,0.9642857142857144,1.0306122448979593
+"['Moderate ESF', 'High CP', 'High PostTest']",['High PreTest'],0.400990099009901,0.7788461538461539,1.0558853897780072
+"['High TP', 'High CP', 'Moderate ESF']",['High PreTest'],0.39603960396039606,0.7843137254901961,1.0632978023424136
+"['Moderate ESF', 'Normal Stress', 'High CP']",['High PreTest'],0.37623762376237624,0.7676767676767677,1.0407430004745442
+"['High TP', 'High PreTest', 'Moderate ESF', 'High CP']",['High PostTest'],0.3811881188118812,0.9625,1.0287037037037037
+"['High TP', 'Moderate ESF', 'High CP', 'High PostTest']",['High PreTest'],0.3811881188118812,0.7938144329896908,1.0761779561336748
+"['Moderate ESF', 'High PreTest', 'Normal Stress', 'High CP']",['High PostTest'],0.3613861386138614,0.9605263157894737,1.0265942634363687
+"['Moderate ESF', 'Normal Stress', 'High CP', 'High PostTest']",['High PreTest'],0.3613861386138614,0.776595744680851,1.0528344995002141
+"['High TP', 'Normal Stress', 'Moderate ESF', 'High CP']",['High PreTest'],0.3564356435643564,0.7826086956521738,1.0609862853807994
+"['High TP', 'High PreTest', 'Normal Stress', 'High CP', 'Moderate ESF']",['High PostTest'],0.3415841584158416,0.9583333333333335,1.0242504409171076
+"['High TP', 'Normal Stress', 'High PostTest', 'High CP', 'Moderate ESF']",['High PreTest'],0.3415841584158416,0.7931034482758621,1.0752140708169406
+"['Normal Stress', 'High CP', 'Normal Depression']",['High PreTest'],0.400990099009901,0.7641509433962265,1.0359630239331392
+"['High PreTest', 'High CP', 'Normal Depression']",['High PostTest'],0.38613861386138615,0.9512195121951219,1.016647309330236
+"['High CP', 'Normal Depression', 'High PostTest']",['High PreTest'],0.38613861386138615,0.7647058823529412,1.0367153572838532
+"['High TP', 'High CP', 'Normal Depression']",['High PreTest'],0.3712871287128713,0.7575757575757576,1.027049013626195
+"['Moderate ESF', 'High CP', 'Normal Depression']",['High PreTest'],0.3415841584158416,0.7840909090909092,1.0629957291031118
+"['High PreTest', 'Normal Stress', 'High CP', 'Normal Depression']",['High PostTest'],0.3811881188118812,0.9506172839506173,1.0160036579789666
+"['Normal Stress', 'High CP', 'Normal Depression', 'High PostTest']",['High PreTest'],0.3811881188118812,0.77,1.0438926174496646
+"['High TP', 'Normal Stress', 'High CP', 'Normal Depression']",['High PreTest'],0.36633663366336633,0.7628865979381444,1.0342489448557395
+"['High TP', 'High PreTest', 'High CP', 'Normal Depression']",['High PostTest'],0.35148514851485146,0.9466666666666667,1.0117813051146385
+"['High TP', 'High CP', 'Normal Depression', 'High PostTest']",['High PreTest'],0.35148514851485146,0.7634408602150536,1.035000360828462
+"['High TP', 'High PreTest', 'Normal Stress', 'Normal Depression', 'High CP']",['High PostTest'],0.3465346534653465,0.9459459459459459,1.0110110110110109
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'High CP']",['High PreTest'],0.3465346534653465,0.7692307692307692,1.0428497676819823
+"['Moderate ESF', 'Normal Stress', 'High CP', 'Normal Depression']",['High PreTest'],0.33663366336633666,0.7906976744186047,1.0719525518963635
+"['Moderate ESF', 'High PreTest', 'High CP', 'Normal Depression']",['High PostTest'],0.32673267326732675,0.9565217391304347,1.0223142397055438
+"['Moderate ESF', 'High CP', 'Normal Depression', 'High PostTest']",['High PreTest'],0.32673267326732675,0.7951807228915664,1.0780302417724592
+"['High TP', 'Moderate ESF', 'High CP', 'Normal Depression']",['High PreTest'],0.3217821782178218,0.783132530120482,1.0616964502304522
+"['High PreTest', 'Normal Stress', 'Normal Depression', 'High CP', 'Moderate ESF']",['High PostTest'],0.3217821782178218,0.9558823529411764,1.0216308745720508
+"['Normal Stress', 'Normal Depression', 'High PostTest', 'High CP', 'Moderate ESF']",['High PreTest'],0.3217821782178218,0.8024691358024691,1.0879111773966361
+"['High TP', 'Normal Stress', 'Normal Depression', 'High CP', 'Moderate ESF']",['High PreTest'],0.31683168316831684,0.7901234567901234,1.0711740823597646
+"['High TP', 'High PreTest', 'Normal Depression', 'High CP', 'Moderate ESF']",['High PostTest'],0.3069306930693069,0.9538461538461538,1.0194546194546192
+"['High TP', 'Normal Depression', 'High PostTest', 'High CP', 'Moderate ESF']",['High PreTest'],0.3069306930693069,0.7948717948717948,1.0776114266047152
+"['High TP', 'High PreTest', 'Normal Stress', 'Normal Depression', 'High CP', 'Moderate ESF']",['High PostTest'],0.30198019801980197,0.953125,1.0186838624338623
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'High CP', 'Moderate ESF']",['High PreTest'],0.30198019801980197,0.8026315789473684,1.0881314023313315
+"['Positive Delta', 'High PreTest', 'High CP']",['High PostTest'],0.37623762376237624,1.0,1.0687830687830686
+"['High TP', 'Positive Delta', 'High PreTest', 'High CP']",['High PostTest'],0.3465346534653465,1.0,1.0687830687830686
+"['Positive Delta', 'High PreTest', 'Normal Stress', 'High CP']",['High PostTest'],0.33663366336633666,1.0,1.0687830687830686
+"['High TP', 'High PreTest', 'Normal Stress', 'Positive Delta', 'High CP']",['High PostTest'],0.3118811881188119,1.0,1.0687830687830686
+"['High PreTest', 'High CP', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.31683168316831684,0.8205128205128205,1.023108578664134
+"['Positive Delta', 'High PreTest', 'High CP', 'Normal Depression']",['High PostTest'],0.31683168316831684,1.0,1.0687830687830686
+"['High PreTest', 'Normal Stress', 'Normal Depression', 'High PostTest', 'High CP']",['Positive Delta'],0.3118811881188119,0.8181818181818181,1.02020202020202
+"['High PreTest', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'High CP']",['High PostTest'],0.3118811881188119,1.0,1.0687830687830686
+"['Moderate ESF', 'Positive Delta', 'High PreTest', 'High CP']",['High PostTest'],0.3069306930693069,1.0,1.0687830687830686
+"['Moderate CRF', 'High CP']",['High PostTest'],0.48514851485148514,0.9514563106796116,1.0169003955411722
+"['Moderate CRF', 'High CP']",['Positive Delta'],0.41089108910891087,0.8058252427184466,1.0047944384513963
+"['Moderate CRF', 'High CP']",['High PreTest'],0.39603960396039606,0.7766990291262136,1.0529745227080212
+"['Moderate CRF', 'Normal Stress', 'High CP']",['High PostTest'],0.4405940594059406,0.9468085106382979,1.0119329055499267
+"['High TP', 'Moderate CRF', 'High CP']",['High PostTest'],0.43564356435643564,0.9462365591397849,1.011321613472151
+"['High TP', 'Moderate CRF', 'Normal Stress', 'High CP']",['High PostTest'],0.39603960396039606,0.9411764705882354,1.005913476501712
+"['Moderate ESF', 'Moderate CRF', 'High CP']",['High PostTest'],0.41089108910891087,0.9540229885057471,1.0196436173447667
+"['High TP', 'Moderate CRF', 'Moderate ESF', 'High CP']",['High PostTest'],0.37623762376237624,0.95,1.0153439153439152
+"['Moderate ESF', 'Moderate CRF', 'Normal Stress', 'High CP']",['High PostTest'],0.37623762376237624,0.95,1.0153439153439152
+"['High TP', 'Normal Stress', 'High CP', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.3415841584158416,0.9452054794520549,1.010219612959339
+"['Moderate CRF', 'High CP', 'Normal Depression']",['High PostTest'],0.39603960396039606,0.9523809523809524,1.017888636936256
+"['Moderate CRF', 'Normal Stress', 'High CP', 'Normal Depression']",['High PostTest'],0.3910891089108911,0.9518072289156627,1.0172754510103907
+"['High TP', 'Moderate CRF', 'High CP', 'Normal Depression']",['High PostTest'],0.3613861386138614,0.948051948051948,1.0132618704047274
+"['High TP', 'Normal Stress', 'Normal Depression', 'High CP', 'Moderate CRF']",['High PostTest'],0.3564356435643564,0.9473684210526315,1.012531328320802
+"['Moderate ESF', 'Moderate CRF', 'High CP', 'Normal Depression']",['High PostTest'],0.33663366336633666,0.9444444444444445,1.0094062316284538
+"['Normal Stress', 'Normal Depression', 'High CP', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.3316831683168317,0.943661971830986,1.008569938147403
+"['High TP', 'Normal Depression', 'High CP', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.3118811881188119,0.9402985074626865,1.0049751243781093
+"['High TP', 'Normal Stress', 'Normal Depression', 'High CP', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.3069306930693069,0.9393939393939393,1.0040083373416706
+"['Moderate CRF', 'Positive Delta', 'High CP']",['High PostTest'],0.40594059405940597,0.9879518072289157,1.0559061643398993
+"['Moderate CRF', 'High CP', 'High PostTest']",['Positive Delta'],0.40594059405940597,0.8367346938775511,1.0433358528596623
+"['Moderate CRF', 'Normal Stress', 'High CP']",['Positive Delta'],0.37623762376237624,0.8085106382978723,1.0081428946677173
+"['High TP', 'Moderate CRF', 'High CP']",['Positive Delta'],0.3712871287128713,0.8064516129032258,1.0055754679410591
+"['Moderate CRF', 'High CP', 'Normal Depression']",['Positive Delta'],0.3415841584158416,0.8214285714285715,1.0242504409171076
+"['Moderate CRF', 'Normal Stress', 'High CP', 'High PostTest']",['Positive Delta'],0.3712871287128713,0.8426966292134831,1.05076987099459
+"['Moderate CRF', 'Positive Delta', 'Normal Stress', 'High CP']",['High PostTest'],0.3712871287128713,0.9868421052631579,1.054720133667502
+"['High TP', 'Moderate CRF', 'High CP', 'High PostTest']",['Positive Delta'],0.36633663366336633,0.8409090909090909,1.0485409652076318
+"['High TP', 'Moderate CRF', 'Positive Delta', 'High CP']",['High PostTest'],0.36633663366336633,0.9866666666666667,1.0545326278659612
+"['High TP', 'Moderate CRF', 'Normal Stress', 'High CP']",['Positive Delta'],0.3415841584158416,0.811764705882353,1.0122004357298475
+"['High TP', 'Normal Stress', 'High PostTest', 'High CP', 'Moderate CRF']",['Positive Delta'],0.33663366336633666,0.85,1.0598765432098765
+"['High TP', 'Normal Stress', 'Positive Delta', 'High CP', 'Moderate CRF']",['High PostTest'],0.33663366336633666,0.9855072463768115,1.0532934590905605
+"['Moderate CRF', 'Normal Stress', 'High CP', 'Normal Depression']",['Positive Delta'],0.33663366336633666,0.819277108433735,1.0215677524914473
+"['Moderate CRF', 'High CP', 'Normal Depression', 'High PostTest']",['Positive Delta'],0.33663366336633666,0.85,1.0598765432098765
+"['Moderate CRF', 'Positive Delta', 'High CP', 'Normal Depression']",['High PostTest'],0.33663366336633666,0.9855072463768115,1.0532934590905605
+"['High TP', 'Moderate CRF', 'High CP', 'Normal Depression']",['Positive Delta'],0.31683168316831684,0.8311688311688311,1.0363957030623696
+"['Normal Stress', 'Normal Depression', 'High PostTest', 'High CP', 'Moderate CRF']",['Positive Delta'],0.3316831683168317,0.8481012658227848,1.0575089857790279
+"['Normal Stress', 'Normal Depression', 'Positive Delta', 'High CP', 'Moderate CRF']",['High PostTest'],0.3316831683168317,0.9852941176470588,1.0530656707127295
+"['High TP', 'Normal Depression', 'High PostTest', 'High CP', 'Moderate CRF']",['Positive Delta'],0.3118811881188119,0.863013698630137,1.076103500761035
+"['High TP', 'Normal Depression', 'Positive Delta', 'High CP', 'Moderate CRF']",['High PostTest'],0.3118811881188119,0.984375,1.0520833333333333
+"['High TP', 'Normal Stress', 'Normal Depression', 'High CP', 'Moderate CRF']",['Positive Delta'],0.3118811881188119,0.8289473684210527,1.0336257309941521
+"['High TP', 'Normal Stress', 'Normal Depression', 'High PostTest', 'High CP', 'Moderate CRF']",['Positive Delta'],0.3069306930693069,0.8611111111111112,1.0737311385459534
+"['High TP', 'Normal Stress', 'Normal Depression', 'Positive Delta', 'High CP', 'Moderate CRF']",['High PostTest'],0.3069306930693069,0.9841269841269841,1.0518182581674644
+"['Moderate ESF', 'Moderate CRF', 'High CP', 'High PostTest']",['Positive Delta'],0.3316831683168317,0.8072289156626506,1.0065446973077494
+"['Moderate ESF', 'Moderate CRF', 'Positive Delta', 'High CP']",['High PostTest'],0.3316831683168317,0.9852941176470588,1.0530656707127295
+"['High TP', 'High PostTest', 'High CP', 'Moderate ESF', 'Moderate CRF']",['Positive Delta'],0.3069306930693069,0.8157894736842105,1.0172189733593242
+"['High TP', 'Positive Delta', 'High CP', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.3069306930693069,0.9841269841269841,1.0518182581674644
+"['Normal Stress', 'High PostTest', 'High CP', 'Moderate ESF', 'Moderate CRF']",['Positive Delta'],0.3069306930693069,0.8157894736842105,1.0172189733593242
+"['Normal Stress', 'Positive Delta', 'High CP', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.3069306930693069,0.9841269841269841,1.0518182581674644
+"['Moderate CRF', 'High PreTest', 'High CP']",['High PostTest'],0.37623762376237624,0.95,1.0153439153439152
+"['Moderate CRF', 'High CP', 'High PostTest']",['High PreTest'],0.37623762376237624,0.7755102040816326,1.0513628270099986
+"['High TP', 'Moderate CRF', 'High CP']",['High PreTest'],0.3613861386138614,0.7849462365591398,1.064155300570109
+"['Moderate CRF', 'Normal Stress', 'High CP']",['High PreTest'],0.3564356435643564,0.7659574468085105,1.0384121090961016
+"['Moderate ESF', 'Moderate CRF', 'High CP']",['High PreTest'],0.3415841584158416,0.7931034482758621,1.0752140708169406
+"['Moderate CRF', 'High CP', 'Normal Depression']",['High PreTest'],0.32673267326732675,0.7857142857142858,1.065196548418025
+"['High TP', 'Moderate CRF', 'High PreTest', 'High CP']",['High PostTest'],0.3415841584158416,0.9452054794520549,1.010219612959339
+"['High TP', 'Moderate CRF', 'High CP', 'High PostTest']",['High PreTest'],0.3415841584158416,0.7840909090909092,1.0629957291031118
+"['Moderate CRF', 'High PreTest', 'Normal Stress', 'High CP']",['High PostTest'],0.33663366336633666,0.9444444444444445,1.0094062316284538
+"['Moderate CRF', 'Normal Stress', 'High CP', 'High PostTest']",['High PreTest'],0.33663366336633666,0.7640449438202248,1.0358193198099692
+"['High TP', 'Moderate CRF', 'Normal Stress', 'High CP']",['High PreTest'],0.32673267326732675,0.7764705882352941,1.0526648243189893
+"['High TP', 'High PreTest', 'Normal Stress', 'High CP', 'Moderate CRF']",['High PostTest'],0.3069306930693069,0.9393939393939393,1.0040083373416706
+"['High TP', 'Normal Stress', 'High PostTest', 'High CP', 'Moderate CRF']",['High PreTest'],0.3069306930693069,0.7749999999999999,1.0506711409395972
+"['Moderate ESF', 'Moderate CRF', 'High PreTest', 'High CP']",['High PostTest'],0.32673267326732675,0.9565217391304347,1.0223142397055438
+"['Moderate ESF', 'Moderate CRF', 'High CP', 'High PostTest']",['High PreTest'],0.32673267326732675,0.7951807228915664,1.0780302417724592
+"['High TP', 'Moderate CRF', 'Moderate ESF', 'High CP']",['High PreTest'],0.3217821782178218,0.8125,1.101510067114094
+"['Moderate ESF', 'Moderate CRF', 'Normal Stress', 'High CP']",['High PreTest'],0.3118811881188119,0.7875,1.0676174496644295
+"['High TP', 'High PreTest', 'High CP', 'Moderate ESF', 'Moderate CRF']",['High PostTest'],0.3069306930693069,0.9538461538461538,1.0194546194546192
+"['High TP', 'High PostTest', 'High CP', 'Moderate ESF', 'Moderate CRF']",['High PreTest'],0.3069306930693069,0.8157894736842105,1.1059696220416815
+"['Moderate CRF', 'Normal Stress', 'High CP', 'Normal Depression']",['High PreTest'],0.32673267326732675,0.7951807228915664,1.0780302417724592
+"['Moderate CRF', 'High PreTest', 'High CP', 'Normal Depression']",['High PostTest'],0.3118811881188119,0.9545454545454545,1.02020202020202
+"['Moderate CRF', 'High CP', 'Normal Depression', 'High PostTest']",['High PreTest'],0.3118811881188119,0.7875,1.0676174496644295
+"['High PreTest', 'Normal Stress', 'Normal Depression', 'High CP', 'Moderate CRF']",['High PostTest'],0.3118811881188119,0.9545454545454545,1.02020202020202
+"['Normal Stress', 'Normal Depression', 'High PostTest', 'High CP', 'Moderate CRF']",['High PreTest'],0.3118811881188119,0.7974683544303797,1.0811315945968907
